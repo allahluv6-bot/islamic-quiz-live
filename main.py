@@ -94,7 +94,7 @@ def main():
         print("Error: questions.json is empty!")
         return
 
-    # FFmpeg command with Silent Audio Track (anullsrc) for YouTube RTMP
+    # FFmpeg command optimized for stable RTMP stream
     ffmpeg_cmd = [
         'ffmpeg', '-y', 
         '-f', 'rawvideo', '-vcodec', 'rawvideo',
@@ -113,7 +113,6 @@ def main():
     
     chat = None
     try:
-        # Apni YouTube live stream ki real video ID yahan daal dein
         chat = pytchat.create(video_id="YOUR_LIVE_VIDEO_ID") 
     except Exception as e:
         print("Chat monitor init warning:", e)
@@ -147,15 +146,16 @@ def main():
                 except Exception as e:
                     pass
 
-            frame_img = draw_ui(current_q, leaderboard, ticker_msg, timer)
-            try:
-                process.stdin.write(frame_img.tobytes())
-                process.stdin.flush()
-            except BrokenPipeError:
-                print("FFmpeg connection closed. Reconnecting...")
-                break
-
-            time.sleep(1)
+            # Send 30 frames per second so FFmpeg bitrate remains stable at 1500k
+            for _ in range(FPS):
+                frame_img = draw_ui(current_q, leaderboard, ticker_msg, timer)
+                try:
+                    process.stdin.write(frame_img.tobytes())
+                    process.stdin.flush()
+                except BrokenPipeError:
+                    print("FFmpeg connection closed. Reconnecting...")
+                    break
+                time.sleep(1.0 / FPS)
 
         q_index += 1
 
