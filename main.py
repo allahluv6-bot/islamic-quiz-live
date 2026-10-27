@@ -5,21 +5,12 @@ import subprocess
 import threading
 from PIL import Image, ImageDraw, ImageFont
 import pytchat
-import pyttsx3
 
 STREAM_KEY = os.environ.get("STREAM_KEY", "")
 VIDEO_WIDTH = 720
 VIDEO_HEIGHT = 1280
-FPS = 10  # Optimized for GitHub cloud server stability
-DURATION_LIMIT = 21600  # Strict 6 Hours (360 minutes)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)
-
-def speak_text(text):
-    try:
-        engine = pyttsx3.init()
-        engine.say(text)
-        engine.runAndWait()
-    except Exception as e:
-        print("TTS Audio warning:", e)
+FPS = 10
+DURATION_LIMIT = 21600  # Strict 6 Hours
 
 try:
     font_large = ImageFont.load_default()
@@ -51,16 +42,16 @@ def draw_rounded_rect(draw, xy, radius, fill, outline=None, width=1):
     draw.pieslice([x2 - radius * 2, y2 - radius * 2, x2, y2], 0, 90, fill=fill)
 
 def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
-    # Dark Olive Green Aesthetic Theme Background (#132A13)[span_4](start_span)[span_4](end_span)
+    # Dark Olive Green Aesthetic Theme Background (#132A13)
     img = Image.new("RGB", (VIDEO_WIDTH, VIDEO_HEIGHT), color="#132A13")
     draw = ImageDraw.Draw(img)
 
-    # Top Header: AHAD Z9 LIVE (@AhadZ9)[span_5](start_span)[span_5](end_span)
+    # Top Header: AHAD Z9 LIVE (@AhadZ9)
     draw.rectangle([30, 30, 690, 130], fill="#386641")
     draw.text((50, 45), "AHAD Z9 LIVE", fill="#F2E8CF", font=font_large)
     draw.text((50, 85), "@AhadZ9 - Islamic Trivia Live", fill="#dda15e", font=font_small)
     
-    # Live Leaderboard Box (Top 5)[span_6](start_span)[span_6](end_span)
+    # Live Leaderboard Box (Top 5)
     draw.rectangle([30, 150, 690, 330], fill="#283618", outline="#606C38", width=2)
     draw.text((50, 160), "LIVE LEADERBOARD (TOP 5)", fill="#dda15e", font=font_large)
     draw.text((50, 190), "Rank   User                        Points", fill="#a3b18a", font=font_small)
@@ -71,21 +62,21 @@ def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
         draw.text((50, y_offset), f"{rank}.      @{user[:15]:<15}     {pts} pts", fill="#fefae0", font=font_small)
         y_offset += 22
 
-    # Center Quiz Card (Question Box)[span_7](start_span)[span_7](end_span)
+    # Center Quiz Card (Question Box)
     draw.rectangle([30, 350, 690, 680], fill="#283618", outline="#606C38", width=3)
     draw.text((50, 370), f"ISLAMIC TRIVIA Q#{q_data.get('id', 1)}:", fill="#dda15e", font=font_large)
     
     q_text = str(q_data.get('question', ''))
     draw.text((50, 420), q_text, fill="#fefae0", font=font_large)
 
-    # Countdown Timer Bar[span_8](start_span)[span_8](end_span)
+    # Countdown Timer Bar
     bar_width = int(610 * (timer_val / 30.0))
     draw.rectangle([50, 520, 660, 545], fill="#386641")
     if bar_width > 0:
         draw.rectangle([50, 520, 50 + bar_width, 545], fill="#bc6c25")
     draw.text((310, 525), f"TIME: {timer_val} SEC", fill="#fefae0", font=font_small)
 
-    # Options A, B, C, D (Rounded Buttons Grid)[span_9](start_span)[span_9](end_span)
+    # Options A, B, C, D (Rounded Buttons Grid)
     options = q_data.get('options', ['', '', '', ''])
     opt_coords = [
         (50, 565, 345, 625),  # A
@@ -98,7 +89,7 @@ def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
             draw_rounded_rect(draw, box, radius=10, fill="#386641", outline="#dda15e", width=2)
             draw.text((box[0] + 15, box[1] + 18), str(options[i]), fill="#fefae0", font=font_small)
 
-    # Bottom Stream Area: Engagement Prompt & Winner Ticker[span_10](start_span)[span_10](end_span)
+    # Bottom Stream Area: Engagement Prompt & Winner Ticker
     draw.rectangle([30, 710, 690, 830], fill="#283618", outline="#606C38", width=2)
     draw.text((50, 730), "+10 Points for Correct Jawab! Type A, B, C, or D in chat!", fill="#dda15e", font=font_small)
     draw.text((50, 780), f"LAST CORRECT JAWAB: {ticker_msg}", fill="#fefae0", font=font_small)
@@ -115,7 +106,7 @@ def main():
         print("Error: questions.json is empty!")
         return
 
-    # FFmpeg command configured for Vertical 9:16 Stream
+    # FFmpeg command configured for Vertical 9:16 Stream with silent audio track for YouTube compliance
     ffmpeg_cmd = [
         'ffmpeg', '-y', 
         '-f', 'rawvideo', '-vcodec', 'rawvideo',
@@ -149,8 +140,6 @@ def main():
         current_q = questions[q_index % len(questions)]
         leaderboard = load_json("leaderboard.json", {})
 
-        threading.Thread(target=speak_text, args=(f"Question {current_q.get('id')}: {current_q.get('question')}",)).start()
-
         for timer in range(30, 0, -1):
             if chat and chat.is_alive():
                 try:
@@ -163,7 +152,6 @@ def main():
                                 leaderboard[author] = leaderboard.get(author, 0) + 10
                                 save_json("leaderboard.json", leaderboard)
                                 ticker_msg = f"@{author} (+10 pts) 🎉"
-                                threading.Thread(target=speak_text, args=(f"Correct jawab by {author}!",)).start()
                 except Exception as e:
                     pass
 
