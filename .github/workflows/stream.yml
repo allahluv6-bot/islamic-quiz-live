@@ -1,8 +1,6 @@
 name: AhadZ9 Islamic Quiz Live Bot
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # Rozana is waqt run hoga (aap isko adjust kar sakte hain)
   workflow_dispatch:
 
 jobs:
