@@ -1,0 +1,23 @@
+name: AhadZ9 Islamic Quiz Live Bot
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Rozana is waqt run hoga (aap isko adjust kar sakte hain)
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Quiz Script
+        run: |
+          python main.py
+          
