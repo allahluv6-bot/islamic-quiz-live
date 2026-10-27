@@ -17,14 +17,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install System Dependencies (FFmpeg & eSpeak)
+      - name: Install System Dependencies (FFmpeg)
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg espeak-ng
+          sudo apt-get install -y ffmpeg
 
       - name: Install Python Dependencies
         run: |
-          pip install --no-cache-dir pillow pytchat pyttsx3 requests
+          pip install --no-cache-dir pillow pytchat requests
 
       - name: Start Live Quiz Stream
         env:
