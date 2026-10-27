@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "question": "Quran Majeed mein kitni suratein hain?",
+    "options": ["A) 114", "B) 100", "C) 120", "D) 108"],
+    "answer": "A"
+  },
+  {
+    "id": 2,
+    "question": "Pehli wahi kis ghaar mein nazil hui thi?",
+    "options": ["A) Ghaar-e-Saur", "B) Ghaar-e-Hira", "C) Jannat-ul-Baqi", "D) Koh-e-Noor"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Dunya ki sab se pehli University kis Muslim khatoon ne banayi thi?",
+    "options": ["A) Aisha RA", "B) Fatima al-Fihri", "C) Maryam", "D) Khadija RA"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Kis Nabi par Allah ne aag ko thanda aur salamat kar diya tha?",
+    "options": ["A) Hazrat Musa AS", "B) Hazrat Ibrahim AS", "C) Hazrat Yusuf AS", "D) Hazrat Isa AS"],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Quran e Majeed ki sab se lambi surat konsi hai?",
+    "options": ["A) Surah Al-Imran", "B) Surah Al-Baqarah", "C) Surah An-Nisa", "D) Surah Al-Maidah"],
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Kis Sahabi ko 'Asadullah' (Allah ka Sher) ka laqab mila tha?",
+    "options": ["A) Hazrat Abu Bakr RA", "B) Hazrat Ali RA", "C) Hazrat Hamza RA", "D) Hazrat Umar RA"],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Jannat-ul-Baqi qabristan kahan waqia hai?",
+    "options": ["A) Makkah", "B) Madinah", "C) Jerusalem", "D) Taif"],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Khatam-un-Nabiyyeen ka zikr Quran ki kis surat mein hai?",
+    "options": ["A) Surah Al-Ahzab", "B) Surah Yaseen", "C) Surah Al-Baqarah", "D) Surah Al-Kahf"],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Hazrat Musa AS ka aasa (stick) kis cheez mein tabdeel ho gaya tha?",
+    "options": ["A) Talwar", "B) Ajgar (Snake)", "C) Pani", "D) Pahad"],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Kis Islami mahine mein Roze (Fasting) farz kiye gaye thay?",
+    "options": ["A) Rajab", "B) Shaban", "C) Ramzan", "D) Muharram"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Quran Majeed mein kis Sahabi ka naam explicitely (waazeh tor par) aaya hai?",
+    "options": ["A) Hazrat Abu Bakr RA", "B) Hazrat Zayd ibn Harithah RA", "C) Hazrat Umar RA", "D) Hazrat Usman RA"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Masjid-e-Aqsa kis shehar mein waqia hai?",
+    "options": ["A) Cairo", "B) Damascus", "C) Jerusalem (Al-Quds)", "D) Amman"],
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Pehli Islami Jang (Battle of Badr) kis year Hijri mein hui thi?",
+    "options": ["A) 1 AH", "B) 2 AH", "C) 3 AH", "D) 4 AH"],
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Kis Farishta ki duty Allah ke hukam se barish aur rizq pohnchane ki hai?",
+    "options": ["A) Hazrat Jibrael AS", "B) Hazrat Israfil AS", "C) Hazrat Mikaeel AS", "D) Hazrat Izrael AS"],
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Quran ki kis surat ko 'Qalb-e-Quran' (Quran ka Dil) kaha jata hai?",
+    "options": ["A) Surah Rahman", "B) Surah Yaseen", "C) Surah Mulk", "D) Surah Ikhlas"],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Hazrat Muhammad ﷺ ki walida ka naam kya tha?",
+    "options": ["A) Bibi Amina", "B) Bibi Halima", "C) Bibi Khadija", "D) Bibi Ayesha"],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Madinah ki pehli Islami masjid ka naam kya hai?",
+    "options": ["A) Masjid-e-Nabwi", "B) Masjid-e-Quba", "C) Masjid-e-Qiblatain", "D) Masjid-e-Juma"],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Kis Sahabi ko 'Zun-Noorain' (Do Nooron Wala) kaha jata hai?",
+    "options": ["A) Hazrat Abu Bakr RA", "B) Hazrat Umar RA", "C) Hazrat Usman RA", "D) Hazrat Ali RA"],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Jannat ki pehli dakhil hone wali khatoon ka naam kya hai?",
+    "options": ["A) Bibi Khadija RA", "B) Bibi Fatima RA", "C) Bibi Ayesha RA", "D) Bibi Asiya RA"],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Quran mein kul kitne Para (Juz) hain?",
+    "options": ["A) 20", "B) 25", "C) 30", "D) 40"],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Kis Nabi ko 'Khaleelullah' (Allah ka Dost) kaha jata hai?",
+    "options": ["A) Hazrat Adam AS", "B) Hazrat Ibrahim AS", "C) Hazrat Musa AS", "D) Hazrat Isa AS"],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Kabatullah ko kis Nabi ne dobara tameer kiya tha?",
+    "options": ["A) Hazrat Nuh AS aur Idris AS", "B) Hazrat Ibrahim AS aur Ismail AS", "C) Hazrat Dawood AS aur Sulaiman AS", "D) Hazrat Yusuf AS aur Yaqub AS"],
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "question": "Quran ki sab se choti surat konsi hai?",
+    "options": ["A) Surah Al-Asr", "B) Surah Al-Ikhlas", "C) Surah Al-Kausar", "D) Surah An-Nas"],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "question": "Pehla Moazzin-e-Islam (Azaan dene wale) kon thay?",
+    "options": ["A) Hazrat Bilal bin Rabah RA", "B) Hazrat Abu Bakr RA", "C) Hazrat Zayd RA", "D) Hazrat Ali RA"],
+    "answer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Hazrat Yusuf AS ke kitne bhai thay?",
+    "options": ["A) 9", "B) 10", "C) 11", "D) 12"],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Kis Jang mein Musalmanon ko pehli baar shikast (defeat) ka samna karna pada tha?",
+    "options": ["A) Jang-e-Badr", "B) Jang-e-Uhod", "C) Jang-e-Khandaq", "D) Jang-e-Tabuk"],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Quran Majeed kis mahine mein nazil hona shuru hua tha?",
+    "options": ["A) Rajab", "B) Ramzan", "C) Shawwal", "D) Zilhaj"],
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "question": "Kis Nabi ko 'Roohullah' aur 'Kalimatullah' kaha jata hai?",
+    "options": ["A) Hazrat Ibrahim AS", "B) Hazrat Musa AS", "C) Hazrat Isa AS", "D) Hazrat Yunus AS"],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "Aap ﷺ ke chacha Hazrat Hamza RA ki shahadat kis jang mein hui thi?",
+    "options": ["A) Jang-e-Badr", "B) Jang-e-Uhod", "C) Jang-e-Khandaq", "D) Fateh Makkah"],
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "Islam ka pehla shaheed hone wala fard (khatoon) kon thin?",
+    "options": ["A) Bibi Sumayya RA", "B) Bibi Khadija RA", "C) Bibi Fatimah RA", "D) Bibi Ayesha RA"],
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "question": "Quran mein kitni Manzilain hain?",
+    "options": ["A) 5", "B) 7", "C) 10", "D) 14"],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "Kis Nabi ko machli (whale) ne nigal liya tha?",
+    "options": ["A) Hazrat Yunus AS", "B) Hazrat Ayyub AS", "C) Hazrat Zakariya AS", "D) Hazrat Yahya AS"],
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "question": "Makkah se Madinah hijrat ke waqt Nabi ﷺ ke sath ghaar-e-saur mein konse Sahabi thay?",
+    "options": ["A) Hazrat Umar RA", "B) Hazrat Abu Bakr RA", "C) Hazrat Ali RA", "D) Hazrat Usman RA"],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "question": "Kis Sahabi ko 'Sif-ullah' (Allah ki Talwar) ka laqab diya gaya tha?",
+    "options": ["A) Hazrat Khalid bin Waleed RA", "B) Hazrat Ali RA", "C) Hazrat Hamza RA", "D) Hazrat Zubair RA"],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "Quran Majeed mein kis Nabi ka zikr sab se zyada martaba aaya hai?",
+    "options": ["A) Hazrat Muhammad ﷺ", "B) Hazrat Musa AS", "C) Hazrat Ibrahim AS", "D) Hazrat Isa AS"],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "Sahi Bukhari kitab ke musannif (author) ka naam kya hai?",
+    "options": ["A) Imam Muslim", "B) Imam Bukhari (Muhammad bin Ismail)", "C) Imam Tirmidhi", "D) Imam Abu Dawood"],
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "question": "Zakat islam ka konsa rukan (pillar) hai?",
+    "options": ["A) Pehla", "B) Doosra", "C) Teesra", "D) Chotha"],
+    "answer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Kis Sahabi ne Kufa shehar ki buniyad rakhi thi?",
+    "options": ["A) Hazrat Saad bin Abi Waqas RA", "B) Hazrat Umar RA", "C) Hazrat Khalid bin Waleed RA", "D) Hazrat Abu Ubaidah RA"],
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "question": "Hazrat Adam AS ke kitne bete thay jo qissa-e-Habeel aur Qabeel mein mashhoor hain?",
+    "options": ["A) 2", "B) 4", "C) 6", "D) 8"],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "Kis Sahabi ko 'Ameen-e-Ummat' (Ummat ka Amin) ka laqab mila tha?",
+    "options": ["A) Hazrat Abu Ubaidah bin al-Jarrah RA", "B) Hazrat Abu Bakr RA", "C) Hazrat Usman RA", "D) Hazrat Talha RA"],
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "question": "Quran mein kitne Sajday hain?",
+    "options": ["A) 10", "B) 14", "C) 19", "D) 25"],
+    "answer": "B"
+  },
+  {
+    "id": 42,
+    "question": "Hazrat Ismail AS ki qurbani ka wakia kis saal ki yaad mein Eid-ul-Adha par manaya jata hai?",
+    "options": ["A) 10 Zilhaj", "B) 1 Muharram", "C) 27 Rajab", "D) 12 Rabi-ul-Awwal"],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Bait-ul-Muqaddas kis Nabi ke daur mein tameer hua tha?",
+    "options": ["A) Hazrat Dawood AS", "B) Hazrat Sulaiman AS", "C) Hazrat Musa AS", "D) Hazrat Yusuf AS"],
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "question": "Kis sahabi ko 'Turjuman-ul-Quran' (Quran ka Tarjuman) kaha gaya hai?",
+    "options": ["A) Hazrat Abdullah bin Abbas RA", "B) Hazrat Abdullah bin Masood RA", "C) Hazrat Ali RA", "D) Hazrat Zayd bin Sabit RA"],
+    "answer": "A"
+  },
+  {
+    "id": 45,
+    "question": "Islami calendar (Hijri) ka pehla mahina konsa hai?",
+    "options": ["A) Ramzan", "B) Muharram", "C) Safar", "D) Rajab"],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "question": "Quran Majeed ki aisi konsi surat hai jisme do martaba Bismillah aati hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah An-Naml", "C) Surah Tawbah", "D) Surah Yaseen"],
+    "answer": "B"
+  },
+  {
+    "id": 47,
+    "question": "Hazrat Muhammad ﷺ ka wisaal kis umar mein mubarak hua tha?",
+    "options": ["A) 60 saal", "B) 63 saal", "C) 65 saal", "D) 70 saal"],
+    "answer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Kis Sahabi ko Rasool Allah ﷺ ne 'Asadullah' ke ilawa 'Farooq-e-Azam' ka laqab diya?",
+    "options": ["A) Hazrat Abu Bakr RA", "B) Hazrat Umar RA", "C) Hazrat Usman RA", "D) Hazrat Ali RA"],
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "question": "Quran mein kitni Makki suratein hain?",
+    "options": ["A) 86", "B) 28", "C) 114", "D) 50"],
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "question": "Quran mein kitni Madani suratein hain?",
+    "options": ["A) 86", "B) 28", "C) 114", "D) 40"],
+    "answer": "B"
+  },
+    {
+    "id": 51,
+    "question": "Quran Majeed ki pehli nazil hone wali aayat kis surat se taluq rakhti hain?",
+    "options": ["A) Surah Al-Alaq", "B) Surah Al-Muzzammil", "C) Surah Al-Mudassir", "D) Surah Al-Fatiha"],
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "question": "Kis Sahabi ko Rasool Allah ﷺ ne 'Jannat ki khushkhabri' duniya hi mein de di thi?",
+    "options": ["A) Hazrat Talha RA", "B) Hazrat Abu Hurairah RA", "C) Hazrat Anas bin Malik RA", "D) Hazrat Abdullah bin Umar RA"],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "question": "Zul-Qarnain ka zikr Quran ki kis surat mein milta hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Yaseen", "C) Surah Maryam", "D) Surah Al-Hajj"],
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "question": "Pehla Islami calendar (Hijri) kis Khalifa ke daur mein shuru kiya gaya tha?",
+    "options": ["A) Hazrat Abu Bakr RA", "B) Hazrat Umar RA", "C) Hazrat Usman RA", "D) Hazrat Ali RA"],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "Bait-ul-Mamoor kahan waqia hai?",
+    "options": ["A) Zameen par Makkah mein", "B) Aasman par (7th Heaven)", "C) Bait-ul-Muqaddas mein", "D) Madinah mein"],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "question": "Kis Nabi ko 'Jibrael AS' ke sath Allah ka khas paigham pohnchane wala ameen banaya gaya?",
+    "options": ["A) Hazrat Musa AS", "B) Hazrat Isa AS", "C) Hazrat Muhammad ﷺ", "D) Hazrat Ibrahim AS"],
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "question": "Surah Al-Fatiha ka doosra mashhoor naam kya hai?",
+    "options": ["A) Umm-ul-Quran", "B) Al-Waqiah", "C) Al-Mulk", "D) Ar-Rahman"],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "question": "Jang-e-Khandaq mein Musalmanon ke liye kis Sahabi ne kandaq (trench) khodne ka mashwara diya tha?",
+    "options": ["A) Hazrat Salman Farsi RA", "B) Hazrat Umar RA", "C) Hazrat Ali RA", "D) Hazrat Abu Bakr RA"],
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "question": "Quran Majeed ki konsi surat baghair Bismillah ke shuru hoti hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah At-Tawbah (Bara'at)", "C) Surah Al-Anfal", "D) Surah Yunus"],
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "question": "Hazrat Abu Bakr RA ka asal naam kya tha?",
+    "options": ["A) Abdullah bin Abi Quhafah", "B) Atiq bin Malik", "C) Abdul Kaaba", "D) Usman bin Affan"],
+    "answer": "A"
+  },
+  {
+    "id": 61,
+    "question": "Islam mein sab se pehli shadi kis ki hui thi?",
+    "options": ["A) Hazrat Adam aur Bibi Hawwa", "B) Hazrat Ali aur Bibi Fatima", "C) Hazrat Yusuf aur Zulaikha", "D) Hazrat Ibrahim aur Bibi Sarah"],
+    "answer": "A"
+  },
+  {
+    "id": 62,
+    "question": "Makkah se Madinah tak ka safar Hijrat ke waqt kitna lamba tha?",
+    "options": ["A) 200 km", "B) Lagbhag 450 km", "C) 100 km", "D) 800 km"],
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "question": "Kis Sahabi ko Rasool Allah ﷺ ne 'Khatib-ul-Islam' ka laqab diya tha?",
+    "options": ["A) Hazrat Thabit bin Qais RA", "B) Hazrat Hassan bin Thabit RA", "C) Hazrat Bilal RA", "D) Hazrat Zayd RA"],
+    "answer": "A"
+  },
+  {
+    "id": 64,
+    "question": "Quran mein kis pahad par Hazrat Nuh AS ki kashti (Ark) ruki thi?",
+    "options": ["A) Koh-e-Noor", "B) Koh-e-Judi", "C) Koh-e-Tur", "D) Jabal-e-Uhod"],
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "question": "Hazrat Umar RA par kis shakhs ne hamla kiya tha?",
+    "options": ["A) Abu Lu'lu'a Firuz", "B) Abdullah bin Ubayy", "C) Amr bin Hisham", "D) Utbah bin Rabiah"],
+    "answer": "A"
+  },
+  {
+    "id": 66,
+    "question": "Kis Islami saal mein Fateh Makkah (Conquest of Makkah) hua tha?",
+    "options": ["A) 6 AH", "B) 8 AH", "C) 10 AH", "D) 2 AH"],
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "question": "Quran Majeed ki hifazat ki zimmadari kis ne li hai?",
+    "options": ["A) Farishton ne", "B) Khud Allah Ta'ala ne", "C) Sahaba ne", "D) Nabi ﷺ ne"],
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "question": "Hazrat Usman RA ki shahadat ke waqt wo Quran ki konsi surat ki tilawat kar rahe thay?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah Al-An'am", "C) Surah Yaseen", "D) Surah Al-Kahf"],
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "question": "Kis Nabi ki qaum par patharon ki baarish ka azaab aaya tha?",
+    "options": ["A) Qaum-e-Lut", "B) Qaum-e-Ad", "C) Qaum-e-Samood", "D) Qaum-e-Firaun"],
+    "answer": "A"
+  },
+  {
+    "id": 70,
+    "question": "Islam ka pehla muezzin hone ke sath sath Hazrat Bilal RA ki kya khasmiya thi?",
+    "options": ["A) Habshi ghulam jo آزاد hue", "B) Qureshi sardar", "C) Madine ke ameer", "D) Badshah"],
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "question": "Quran ki kis surat mein 'Bismillah' do baar aati hai?",
+    "options": ["A) Surah An-Naml", "B) Surah Al-Baqarah", "C) Surah Al-Imran", "D) Surah Al-Maidah"],
+    "answer": "A"
+  },
+  {
+    "id": 72,
+    "question": "Hazrat Ali RA kis umar mein Islam laaye thay?",
+    "options": ["A) Lagbhag 10 saal", "B) 15 saal", "C) 20 saal", "D) 25 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 73,
+    "question": "Jannat mein pehla darwaza kiske liye khula jayega?",
+    "options": ["A) Hazrat Muhammad ﷺ", "B) Hazrat Abu Bakr RA", "C) Hazrat Ibrahim AS", "D) Hazrat Adam AS"],
+    "answer": "A"
+  },
+  {
+    "id": 74,
+    "question": "Kis Jang mein hazaron farishton ne Musalmanon ki madad ki thi?",
+    "options": ["A) Jang-e-Badr", "B) Jang-e-Uhod", "C) Jang-e-Khandaq", "D) Jang-e-Tabuk"],
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "question": "Hazrat Dawood AS ke bete ka naam kya tha jo khud bhi ek bade Nabi aur Badshah thay?",
+    "options": ["A) Hazrat Sulaiman AS", "B) Hazrat Yusuf AS", "C) Hazrat Yahya AS", "D) Hazrat Zakariya AS"],
+    "answer": "A"
+  },
+  {
+    "id": 76,
+    "question": "Quran Majeed ka pehla Urdu tarjuma kisne kiya tha?",
+    "options": ["A) Shah Rafiuddin aur Shah Abdul Qadir", "B) Allama Iqbal", "C) Sir Syed Ahmed Khan", "D) Maulana Maududi"],
+    "answer": "A"
+  },
+  {
+    "id": 77,
+    "question": "Madinah mein Yahoodi qabeele ke sath hone wala mashhoor muahida kya kehlata hai?",
+    "options": ["A) Misaq-e-Madinah", "B) Sulh-e-Hudaibiyyah", "C) Bayat-e-Rizwan", "D) Muahida-e-Makkah"],
+    "answer": "A"
+  },
+  {
+    "id": 78,
+    "question": "Kis sahabi ko 'Shair-e-Rasool' (Rasool ka Shair) kaha jata hai?",
+    "options": ["A) Hazrat Hassan bin Thabit RA", "B) Hazrat Abdullah bin Rawaha RA", "C) Hazrat Ka'b bin Malik RA", "D) Sabhi sahi hain (Khas tor par Hassan bin Thabit)"],
+    "answer": "D"
+  },
+  {
+    "id": 79,
+    "question": "Qibla ki tabdeel (changing of Qibla direction) kis masjid se Bait-ul-Maqaddas se Kaaba ki taraf hui thi?",
+    "options": ["A) Masjid-e-Qiblatain", "B) Masjid-e-Nabwi", "C) Masjid-e-Quba", "D) Masjid-e-Haram"],
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "question": "Hazrat Abu Bakr RA ka daur-e-khilafat kitna lamba tha?",
+    "options": ["A) 2 saal 3 maheenay", "B) 10 saal", "C) 12 saal", "D) 6 maheenay"],
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "question": "Quran mein kis janwar ki aawaz ko sab se buri aawaz (Ankar-ul-Aswat) kaha gaya hai?",
+    "options": ["A) Gadha (Donkey)", "B) Kutta", "C) Suar", "D) Oont"],
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "question": "Sulh-e-Hudaibiyyah kis Hijri year mein sign hui thi?",
+    "options": ["A) 6 AH", "B) 4 AH", "C) 8 AH", "D) 10 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 83,
+    "question": "Hazrat Maryam AS ke walid ka naam kya tha?",
+    "options": ["A) Imran", "B) Zakariya", "C) Dawood", "D) Harun"],
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "question": "Islam mein sab se pehli 'Azaan' kis sahabi ke khwab par shuru ki gayi?",
+    "options": ["A) Hazrat Abdullah bin Zaid RA", "B) Hazrat Bilal RA", "C) Hazrat Umar RA", "D) Hazrat Abu Bakr RA"],
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "question": "Quran ki kis surat को 'Aroos-ul-Quran' (Quran ki Dulhan) kaha jata hai?",
+    "options": ["A) Surah Ar-Rahman", "B) Surah Yaseen", "C) Surah Mulk", "D) Surah Waqiah"],
+    "answer": "A"
+  },
+  {
+    "id": 86,
+    "question": "Hazrat Umar RA ka daur-e-khilafat kitna lamba tha?",
+    "options": ["A) 10 saal 6 maheenay", "B) 5 saal", "C) 2 saal", "D) 12 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 87,
+    "question": "Kis Sahabi ko Rasool Allah ﷺ ne 'Dhul-Qarnain' ke ilawa 'Bahr-e-Sakhawat' kaha?",
+    "options": ["A) Hazrat Usman RA", "B) Hazrat Talha RA", "C) Hazrat Abbas RA", "D) Hazrat Ali RA"],
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "question": "Quran mein kitni aisi suratein hain jo 'Huroof-e-Muqatta'at' (jaise Alif-Lam-Mim) se shuru hoti hain?",
+    "options": ["A) 29", "B) 14", "C) 30", "D) 20"],
+    "answer": "A"
+  },
+  {
+    "id": 89,
+    "question": "Hazrat Ibrahim AS ke do betay kon thay jo Nabi bane?",
+    "options": ["A) Ismail AS aur Ishaq AS", "B) Yusuf AS aur Benjamin", "C) Musa AS aur Harun AS", "D) Dawood AS aur Sulaiman AS"],
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "question": "Jang-e-Uhod mein kis kafir sardar ne Nabi ﷺ ko zakhmi kiya tha?",
+    "options": ["A) Utbah bin Abi Waqas / Ibn Qamiah", "B) Abu Jahal", "C) Abu Sufyan", "D) Walid bin Mughirah"],
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "question": "Quran mein kitne Nabiyon aur Rasoolon ka zikr by name (naam ke sath) aaya hai?",
+    "options": ["A) 25", "B) 30", "C) 114", "D) 99"],
+    "answer": "A"
+  },
+  {
+    "id": 92,
+    "question": "Hazrat Usman RA ka daur-e-khilafat kitna lamba tha?",
+    "options": ["A) 12 saal", "B) 10 saal", "C) 8 saal", "D) 4 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 93,
+    "question": "Pehli wahi utarne ke waqt Nabi ﷺ ki umar mubarak kitni thi?",
+    "options": ["A) 40 saal", "B) 63 saal", "C) 25 saal", "D) 50 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 94,
+    "question": "Kis sahabi ko 'Babul Ilm' (Ilm ka Darwaza) kaha gaya hai?",
+    "options": ["A) Hazrat Ali RA", "B) Hazrat Abu Bakr RA", "C) Hazrat Umar RA", "D) Hazrat Usman RA"],
+    "answer": "A"
+  },
+  {
+    "id": 95,
+    "question": "Quran mein kis darakht (tree) ka zikr 'Zaqqum' ke naam se jahannum mein hai?",
+    "options": ["A) Darakht-e-Zaqqum", "B) Darakht-e-Tooba", "C) Olive tree", "D) Date palm"],
+    "answer": "A"
+  },
+  {
+    "id": 96,
+    "question": "Hazrat Ali RA ka daur-e-khilafat kitna lamba tha?",
+    "options": ["A) Lagbhag 4 saal 9 maheenay", "B) 10 saal", "C) 2 saal", "D) 12 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 97,
+    "question": "Quran Majeed mein kis phool ya phal (fruit) ki qasam khai gayi hai?",
+    "options": ["A) Teen (Fig) aur Zaitoon (Olive)", "B) Angoor aur Kajoor", "C) Anar aur Seb", "D) Kela"],
+    "answer": "A"
+  },
+  {
+    "id": 98,
+    "question": "Makkah mein Islam ki tableegh chup kar kitne saal tak ki jati rahi?",
+    "options": ["A) 3 saal", "B) 5 saal", "C) 10 saal", "D) 1 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "question": "Quran mein kis maqam ko 'Maqam-e-Ibrahim' kaha gaya hai jahan qadam ke nishanaat hain?",
+    "options": ["A) Kaaba ke paas ek patthar", "B) Ghaar-e-Hira", "C) Safa o Marwa", "D) Mina"],
+    "answer": "A"
+  },
+  {
+    "id": 100,
+    "question": "Quran Majeed mein kul kitni Suratein aur kitne Para (Juz) hain?",
+    "options": ["A) 114 Suratein aur 30 Para", "B) 100 Suratein aur 30 Para", "C) 114 Suratein aur 29 Para", "D) 120 Suratein aur 30 Para"],
+    "answer": "A"
+  },
+    {
+    "id": 101,
+    "question": "Quran Majeed ki konsi surat ko 'Surah-e-Inshirah' ya 'Alam Nashrah' bhi kaha jata hai?",
+    "options": ["A) Surah Al-Inshirah", "B) Surah Ad-Duha", "C) Surah At-Tin", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "question": "Hazrat Musa AS ko Toor pahad par Allah ne kitne dinon ke liye bulaya tha?",
+    "options": ["A) 40 din", "B) 30 din (aur 10 mazeed add hue)", "C) 7 din", "D) 15 din"],
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "question": "Islam mein sab se pehli 'Hijrat' (Migration) kis mulk ki taraf hui thi?",
+    "options": ["A) Habsha (Ethiopia)", "B) Madinah", "C) Taif", "D) Sham (Syria)"],
+    "answer": "A"
+  },
+  {
+    "id": 104,
+    "question": "Kis Sahabi ko Rasool Allah ﷺ ne 'Asadullah' ke ilawa 'Hunar-mand' aur shujaat ke liye 'Asad-ul-Bahr' kaha?",
+    "options": ["A) Hazrat Abu Ubaidah RA", "B) Hazrat Hamza RA", "C) Hazrat Ali RA", "D) Hazrat Zubair bin Awwam RA"],
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "question": "Quran ki kis surat mein 'Bani Israel' ka zikr aur unke fasad ka bayan hai?",
+    "options": ["A) Surah Al-Isra (Bani Israel)", "B) Surah Al-Baqarah", "C) Surah Al-Maidah", "D) Surah Al-Anbiya"],
+    "answer": "A"
+  },
+  {
+    "id": 106,
+    "question": "Hazrat Ibrahim AS ke walid ka asal naam kya tha?",
+    "options": ["A) Azar", "B) Terah", "C) Laban", "D) Imran"],
+    "answer": "A"
+  },
+  {
+    "id": 107,
+    "question": "Jannat ki nahron mein kis cheez ki nahrein shamil nahi hain?",
+    "options": ["A) Doodh aur Shahad", "B) Sharab-e-Tahoora", "C) Paani", "D) Petrol aur Diesel"],
+    "answer": "D"
+  },
+  {
+    "id": 108,
+    "question": "Khatam-ul-Anbiya ka matlab kya hota hai?",
+    "options": ["A) Sab se pehle Nabi", "B) Aakhri Nabi", "C) Sab se taqatwar Nabi", "D) Sab se alim Nabi"],
+    "answer": "B"
+  },
+  {
+    "id": 109,
+    "question": "Quran Majeed mein 'Qalam' (Pen) ke naam se konsi surat hai?",
+    "options": ["A) Surah Al-Qalam (Noon)", "B) Surah Al-Alaq", "C) Surah Al-Muzzammil", "D) Surah Al-Mudassir"],
+    "answer": "A"
+  },
+  {
+    "id": 110,
+    "question": "Makkah ke kaafiron ne Nabi ﷺ ko qatal karne ke liye kitne qabeelon ke nojawan chune thay?",
+    "options": ["A) 12 qabeele", "B) 10 qabeele", "C) 5 qabeele", "D) 20 qabeele"],
+    "answer": "A"
+  },
+  {
+    "id": 111,
+    "question": "Hazrat Ayub AS kis cheez ki bimaari mein mubtala hue thay?",
+    "options": ["A) Jismani aur jild (skin) ki sakht bimaari", "B) Andhapan", "C) Behoshi", "D) Falij"],
+    "answer": "A"
+  },
+  {
+    "id": 112,
+    "question": "Islam mein 'Ushr' kis par lagaya jata hai?",
+    "options": ["A) Zameen ki paidawar (crops) par", "B) Sone aur chandi par", "C) Janwaron par", "D) Tijarat par"],
+    "answer": "A"
+  },
+  {
+    "id": 113,
+    "question": "Quran mein kis Sahabi ki biwi ka qissa 'Surah Mujadila' ki shuruwat mein aaya hai?",
+    "options": ["A) Aus bin Samit RA", "B) Abu Bakr RA", "C) Umar RA", "D) Zayd RA"],
+    "answer": "A"
+  },
+  {
+    "id": 114,
+    "question": "Pehli wahi utarne ke baad Nabi ﷺ sab se pehle kiske paas tashreef le gaye thay?",
+    "options": ["A) Bibi Khadija RA", "B) Abu Bakr RA", "C) Waraqa bin Nawfal", "D) Ali RA"],
+    "answer": "A"
+  },
+  {
+    "id": 115,
+    "question": "Bait-ul-Muqaddas ko sab se pehle kis badshah ne tabah kiya tha?",
+    "options": ["A) Nebuchadnezzar (Bukht-e-Nasar)", "B) Firaun", "C) Namrood", "D) Alexander"],
+    "answer": "A"
+  },
+  {
+    "id": 116,
+    "question": "Hazrat Ismail AS ki walida ka naam kya tha?",
+    "options": ["A) Bibi Hajar RA", "B) Bibi Sarah RA", "C) Bibi Maryam", "D) Bibi Asiya"],
+    "answer": "A"
+  },
+  {
+    "id": 117,
+    "question": "Quran Majeed mein 'Ahlebait' ka zikr kis surat mein khas tor par aata hai?",
+    "options": ["A) Surah Al-Ahzab", "B) Surah Yaseen", "C) Surah Al-Baqarah", "D) Surah Al-Imran"],
+    "answer": "A"
+  },
+  {
+    "id": 118,
+    "question": "Islam ka pehla da'i (missionary) kis sahabi ko Madinah bheja gaya tha?",
+    "options": ["A) Musab bin Umair RA", "B) Bilal RA", "C) Ammar RA", "D) Zayd RA"],
+    "answer": "A"
+  },
+  {
+    "id": 119,
+    "question": "Hazrat Yaqub AS ki aankhon ki roshni kis Nabi ke kurta (shirt) lagane se wapas aayi thi?",
+    "options": ["A) Hazrat Yusuf AS", "B) Hazrat Isa AS", "C) Hazrat Musa AS", "D) Hazrat Ibrahim AS"],
+    "answer": "A"
+  },
+  {
+    "id": 120,
+    "question": "Quran ki kis surat mein 'Ayat-ul-Kursi' maujood hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah Al-Imran", "C) Surah An-Nisa", "D) Surah Al-Maidah"],
+    "answer": "A"
+  },
+  {
+    "id": 121,
+    "question": "Hazrat Hamza RA ka qatil kon tha jisne baad mein Islam qubool kar liya tha?",
+    "options": ["A) Wahshi ibn Harb", "B) Abu Sufyan", "C) Ikrimah", "D) Safwan"],
+    "answer": "A"
+  },
+  {
+    "id": 122,
+    "question": "Islam mein 'Khums' (1/5th share) kis maal par hota hai?",
+    "options": ["A) Maal-e-Ghanimat (War loot) par", "B) Zakat par", "C) Sadaqa par", "D) Gift par"],
+    "answer": "A"
+  },
+  {
+    "id": 123,
+    "question": "Quran mein kis pahad ka zikr 'Jabal-e-Noor' ke qareeb wahi ke hawale se khas hai?",
+    "options": ["A) Koh-e-Hira", "B) Koh-e-Tur", "C) Koh-e-Uhod", "D) Koh-e-Safah"],
+    "answer": "A"
+  },
+  {
+    "id": 124,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein sab se pehli jang kiske khilaf ladi gayi?",
+    "options": ["A) Munkireen-e-Zakat (False Prophets / Rebels)", "B) Romans", "C) Persians", "D) Jews"],
+    "answer": "A"
+  },
+  {
+    "id": 125,
+    "question": "Quran Majeed ki konsi surat ko padhne se har roz 100 martaba Gunahon ki maafi milti hai (ya fazilat hai)?",
+    "options": ["A) Surah Ikhlas / Surah Mulk", "B) Surah Baqarah", "C) Surah Kahf", "D) Surah Yaseen"],
+    "answer": "A"
+  },
+  {
+    "id": 126,
+    "question": "Makkah ke kis karkun ne Islam ke shuru mein Nabi ﷺ par kachra phenka tha?",
+    "options": ["A) Uqba bin Abi Muayt / Abu Jahl ke log", "B) Hamza", "C) Abbas", "D) Khalid"],
+    "answer": "A"
+  },
+  {
+    "id": 127,
+    "question": "Hazrat Zakariya AS ke bete ka naam kya tha?",
+    "options": ["A) Hazrat Yahya AS", "B) Hazrat Isa AS", "C) Hazrat Ilyas AS", "D) Hazrat Yunus AS"],
+    "answer": "A"
+  },
+  {
+    "id": 128,
+    "question": "Islam mein 'Ramazan' ke ilawa konsa roza sab se afzal mana gaya hai?",
+    "options": ["A) Muharram (Ashura) aur Shaaban ke rozay", "B) Jumrat", "C) Eid ke rozay", "D) Kabhi nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "question": "Quran mein kis shakhs ka naam 'Abu Lahab' (Aag ka baap) waazeh tor par aya hai?",
+    "options": ["A) Abdul Uzza (Abu Lahab)", "B) Abu Jahl", "C) Abu Sufyan", "D) Utbah"],
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "question": "Hazrat Ali RA aur Bibi Fatima RA ke bete ka naam kya tha jo Imam bane?",
+    "options": ["A) Imam Hasan RA aur Imam Husain RA", "B) Zayd aur Qasim", "C) Abdullah aur Usman", "D) Ibrahim aur Ismail"],
+    "answer": "A"
+  },
+  {
+    "id": 131,
+    "question": "Quran ki kis surat mein 'Ashab-e-Kahf' (Cave sleepers) ka waqia tafseel se hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Maryam", "C) Surah Yaseen", "D) Surah Al-Mulk"],
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "question": "Jang-e-Uhod mein Musalmanon ke teer-andaz (archers) kis pahari par taith thay?",
+    "options": ["A) Jabal-e-Rumat", "B) Jabal-e-Uhod", "C) Jabal-e-Noor", "D) Jabal-e-Saur"],
+    "answer": "A"
+  },
+  {
+    "id": 133,
+    "question": "Hazrat Isa AS ki walida ka naam kya tha?",
+    "options": ["A) Bibi Maryam", "B) Bibi Sarah", "C) Bibi Hajra", "D) Bibi Khadija"],
+    "answer": "A"
+  },
+  {
+    "id": 134,
+    "question": "Quran Majeed mein kis cheez ko 'Ruh-ul-Ameen' kaha gaya hai?",
+    "options": ["A) Hazrat Jibrael AS", "B) Quran ki aayat", "C) Wahi", "D) Farishton ki jamaat"],
+    "answer": "A"
+  },
+  {
+    "id": 135,
+    "question": "Islam mein sab se pehli masjid jo Quba bani, uski buniyad kis ne rakhi?",
+    "options": ["A) Hazrat Muhammad ﷺ", "B) Abu Bakr RA", "C) Ali RA", "D) Umar RA"],
+    "answer": "A"
+  },
+  {
+    "id": 136,
+    "question": "Quran ki kis surat ko 'Surah Al-Waqiah' padhne se rizq ki tangi door hoti hai?",
+    "options": ["A) Surah Al-Waqiah", "B) Surah Rahman", "C) Surah Mulk", "D) Surah Ikhlas"],
+    "answer": "A"
+  },
+  {
+    "id": 137,
+    "question": "Hazrat Sulaiman AS ki zuban kis ki samajhte thay?",
+    "options": ["A) Parindoun aur janwaron ki boli", "B) Sirf insano ki", "C) Farishton ki", "D) Jinnat ki sirf"],
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "question": "Makkah ke kaafiron ne Nabi ﷺ ka social boycott (social and economic boycott) kitne saal tak kiya tha?",
+    "options": ["A) 3 saal (Ghaar-e-Abi Talib mein)", "B) 1 saal", "C) 5 saal", "D) 10 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 139,
+    "question": "Quran Majeed ki konsi surat mein 'Bismillah' do martaba aane ke sath sath poora qissa hai?",
+    "options": ["A) Surah An-Naml", "B) Surah Al-Baqarah", "C) Surah Al-Maidah", "D) Surah Tawbah"],
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "Hazrat Abu Bakr RA ke daur mein Quran ko kis Sahabi ki nigrani mein pehli baar ek kitaab (Mushaf) ki shakal mein jama kiya gaya?",
+    "options": ["A) Zayd bin Sabit RA", "B) Ubay bin Ka'b RA", "C) Abdullah bin Masood RA", "D) Ali RA"],
+    "answer": "A"
+  },
+  {
+    "id": 141,
+    "question": "Quran mein kis Nabi ko 'Zaboor' kitab di gayi thi?",
+    "options": ["A) Hazrat Dawood AS", "B) Hazrat Musa AS", "C) Hazrat Isa AS", "D) Hazrat Ibrahim AS"],
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "question": "Islam mein sab se pehli 'Jang' (Battle of Badr) mein kitne Musalman shaamil thay?",
+    "options": ["A) 313", "B) 1000", "C) 500", "D) 100"],
+    "answer": "A"
+  },
+  {
+    "id": 143,
+    "question": "Hazrat Umar RA Islam lane se pehle kis qabeelay se aur kis baat ke liye sakht thay?",
+    "options": ["A) Quresh (Adi clan) aur Islam ke sakht mukhalif", "B) Khazraj", "C) Aus", "D) Banu Hashim"],
+    "answer": "A"
+  },
+  {
+    "id": 144,
+    "question": "Quran ki kis surat ko padhne se 'Shafaat' (intercession) milti hai aur wo qabar mein hifazat karti hai?",
+    "options": ["A) Surah Al-Mulk", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "question": "Hazrat Nuh AS ki kashti kitne arsay tak toofan mein chalti rahi / ya unki umar kitni thi?",
+    "options": ["A) 950 saal ki tableegh", "B) 500 saal", "C) 100 saal", "D) 200 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 146,
+    "question": "Islam mein 'Hajj' kis Hijri saal mein farz kiya gaya tha?",
+    "options": ["A) 9 AH", "B) 6 AH", "C) 3 AH", "D) 10 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "question": "Quran mein kis jagah ko 'Balad-ul-Ameen' (Aman wala shehar) kaha gaya hai?",
+    "options": ["A) Makkah", "B) Madinah", "C) Jerusalem", "D) Taif"],
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "question": "Hazrat Usman RA ki shahadat ke baad kis ko Khalifa muntakhib kiya gaya?",
+    "options": ["A) Hazrat Ali RA", "B) Hazrat Muawiyah RA", "C) Hazrat Hasan RA", "D) Hazrat Zubair RA"],
+    "answer": "A"
+  },
+  {
+    "id": 149,
+    "question": "Quran Majeed ki konsi surat mein 'Bani Israel' aur Hazrat Musa ka qissa sab se lambi tafseel se hai?",
+    "options": ["A) Surah Al-Baqarah aur Surah Al-A'raf", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Ikhlas"],
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "question": "Quran Majeed mein kul kitne Para (Juz) aur kitni Manzilain hain?",
+    "options": ["A) 30 Para aur 7 Manzilain", "B) 30 Para aur 10 Manzilain", "C) 20 Para aur 7 Manzilain", "D) 30 Para aur 5 Manzilain"],
+    "answer": "A"
+  },
+    {
+    "id": 151,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Infitar' ke sath aasmaan ke phatne ka zikr hai?",
+    "options": ["A) Surah Al-Infitar", "B) Surah Al-Inshiqaq", "C) Surah At-Takwir", "D) Surah Al-Mutaffifin"],
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "question": "Hazrat Dawood AS ko Allah ne lohay (iron) ki zirah (armor) banane ka hunar kis zariye sikhaya tha?",
+    "options": ["A) Lohay ko unke haath mein naram kar diya jata tha", "B) Aag mein pighla kar", "C) Pahaad kaat kar", "D) Farishton ne sikhaya"],
+    "answer": "A"
+  },
+  {
+    "id": 153,
+    "question": "Islam mein 'Sajdat-e-Tilawat' Quran padhte waqt kitni jagahon par ada ki jati hai?",
+    "options": ["A) 14 maqamaat par", "B) 10 maqamaat par", "C) 20 maqamaat par", "D) 7 maqamaat par"],
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "Quran mein kis Nabi ko 'Ayyub' ke sabr ki misaal ke tor par shamil kiya gaya?",
+    "options": ["A) Hazrat Ayyub AS", "B) Hazrat Yaqub AS", "C) Hazrat Yunus AS", "D) Hazrat Zakariya AS"],
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "question": "Hazrat Uthman RA ki shahadat ke baad kis din ya mahine mein unka dafan hua tha?",
+    "options": ["A) Jannat-ul-Baqi mein raat ke waqt", "B) Din ke waqt Makkah mein", "C) Masjid-e-Nabwi ke andar", "D) Uhod ke qareeb"],
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "question": "Quran ki kis surat mein 'Surah At-Takwir' ke shuru mein sooraj ke lapete jane ka zikr hai?",
+    "options": ["A) Surah At-Takwir", "B) Surah Al-Infitar", "C) Surah Al-Inshiqaq", "D) Surah Al-Ghashiyah"],
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "question": "Hazrat Sulaiman AS ka takht hawa mein kis zariye safar karta tha?",
+    "options": ["A) Hawa ki taqat aur Jinnat/Farishton ke hukam se", "B) Bijli se", "C) Parindon ke zariye", "D) Paani ki lehar par"],
+    "answer": "A"
+  },
+  {
+    "id": 158,
+    "question": "Islam mein 'Ruku' ki halat mein kya tasbeeh padi jati hai?",
+    "options": ["A) Subhana Rabbiyal Azeem", "B) Subhana Rabbiyal A'la", "C) Sami Allahu Liman Hamidah", "D) Rabbana Lakal Hamd"],
+    "answer": "A"
+  },
+  {
+    "id": 159,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete 'Usama' ko 'Hibb-e-Rasool' (Rasool ka Pyara) kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal RA", "C) Ali RA", "D) Zayd RA"],
+    "answer": "A"
+  },
+  {
+    "id": 160,
+    "question": "Hazrat Muhammad ﷺ ke chacha 'Abu Talib' ka inteqal kis saal mein hua tha jise 'Aam-ul-Huzn' (Gham ka saal) kaha gaya?",
+    "options": ["A) 10th year of Prophethood (Nabuwat ka 10wan saal)", "B) 5th year", "C) 2nd Hijri", "D) Fateh Makkah ke waqt"],
+    "answer": "A"
+  },
+  {
+    "id": 161,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Mutaffifin' naap tol mein kami karne walon ke liye hai?",
+    "options": ["A) Surah Al-Mutaffifin", "B) Surah Al-Infitar", "C) Surah Al-Inshiqaq", "D) Surah Al-Burooj"],
+    "answer": "A"
+  },
+  {
+    "id": 162,
+    "question": "Hazrat Musa AS ke bhai ka naam kya tha jo khud bhi Nabi thay?",
+    "options": ["A) Hazrat Harun AS", "B) Hazrat Yusuf AS", "C) Hazrat Yahya AS", "D) Hazrat Ilyas AS"],
+    "answer": "A"
+  },
+  {
+    "id": 163,
+    "question": "Islam mein 'Sajdah' ki halat mein kya tasbeeh padi jati hai?",
+    "options": ["A) Subhana Rabbiyal A'la", "B) Subhana Rabbiyal Azeem", "C) Astaghfirullah", "D) Allahu Akbar"],
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "question": "Quran mein kis Nabi ko 'Bisharah' ke tor par Ismail aur Ishaq ka zikr milta hai?",
+    "options": ["A) Hazrat Ibrahim AS ko bete ki khushkhabri", "B) Adam AS", "C) Nuh AS", "D) Lut AS"],
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "question": "Hazrat Abu Bakr RA ne kis jang mein 'Khaalid bin Waleed' ko commander bana kar bheja tha?",
+    "options": ["A) Ridda Wars (Munkireen-e-Zakat ke khilaf)", "B) Badr", "C) Uhod", "D) Tabuk"],
+    "answer": "A"
+  },
+  {
+    "id": 166,
+    "question": "Quran ki kis surat mein 'Surah Al-Inshiqaq' ke baad aasmaan ke phatne ka bayan hai?",
+    "options": ["A) Surah Al-Inshiqaq", "B) Surah Al-Burooj", "C) Surah At-Tariq", "D) Surah Al-Ala"],
+    "answer": "A"
+  },
+  {
+    "id": 167,
+    "question": "Hazrat Yusuf AS ko unke bhaiyon ne kis cheez mein phenk diya tha?",
+    "options": ["A) Aik kuway (Well / Pit) mein", "B) Dariya mein", "C) Ghaar mein", "D) Jangal mein"],
+    "answer": "A"
+  },
+  {
+    "id": 168,
+    "question": "Islam mein 'Tashahhud' (Attahiyyat) kis nishist mein padhi jati hai?",
+    "options": ["A) Qaid-e-Ula aur Qaid-e-Akhirah mein", "B) Sirf Ruku mein", "C) Sirf Qayam mein", "D) Sajdah mein"],
+    "answer": "A"
+  },
+  {
+    "id": 169,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Thabit' ke sath Quran jama karne ki zimmedari di gayi?",
+    "options": ["A) Ubay bin Ka'b aur digar Katib-e-Wahi", "B) Abu Bakr", "C) Umar", "D) Ali"],
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "Hazrat Muhammad ﷺ ki saghi walida Bibi Amina ka inteqal kahan hua tha?",
+    "options": ["A) Abwa (Makkah aur Madinah ke darmiyan)", "B) Makkah mein", "C) Madinah mein", "D) Taif mein"],
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Buruj' ke baad 'Surah At-Tariq' mein raat ke aane wale ka zikr hai?",
+    "options": ["A) Surah At-Tariq", "B) Surah Al-A'la", "C) Surah Al-Ghashiyah", "D) Surah Al-Fajr"],
+    "answer": "A"
+  },
+  {
+    "id": 172,
+    "question": "Hazrat Adam AS ko zameen par utare jane ke baad kahan mulaqat hui thi (ya kahan unhone tawba ki)?",
+    "options": ["A) Arafat (Jabal-e-Rahmah) par", "B) Makkah mein", "C) Madinah mein", "D) Jerusalem mein"],
+    "answer": "A"
+  },
+  {
+    "id": 173,
+    "question": "Islam mein 'Qunoot' ki dua kis namaz mein padhi jati hai?",
+    "options": ["A) Namaz-e-Witr mein", "B) Fajr ki namaz mein", "C) Maghrib mein", "D) Juma mein"],
+    "answer": "A"
+  },
+  {
+    "id": 174,
+    "question": "Quran mein kis Nabi ko 'Zul-Noon' (Machli wale) ke naam se pukara gaya hai?",
+    "options": ["A) Hazrat Yunus AS", "B) Hazrat Ayyub AS", "C) Hazrat Musa AS", "D) Hazrat Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 175,
+    "question": "Hazrat Umar RA ki shahadat ke baad unke janaze ki namaz kis ne padhayi thi?",
+    "options": ["A) Hazrat Suhaib Rumi RA", "B) Ali RA", "C) Uthman RA", "D) Zubair RA"],
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "question": "Quran ki kis surat mein 'Surah Al-A'la' mein Allah ki tasbeeh ka hukam hai?",
+    "options": ["A) Surah Al-A'la", "B) Surah Al-Ghashiyah", "C) Surah Al-Fajr", "D) Surah Al-Balad"],
+    "answer": "A"
+  },
+  {
+    "id": 177,
+    "question": "Hazrat Nuh AS ki kashti ka zikr Quran ki kis surat mein tafseel se hai?",
+    "options": ["A) Surah Hud aur Surah Nuh", "B) Surah Yaseen", "C) Surah Kahf", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 178,
+    "question": "Islam mein 'Darood-e-Ibrahimi' kis namaz mein padha jata hai?",
+    "options": ["A) Qaid-e-Akhirah (aakhri qaid) mein tashahhud ke baad", "B) Pehli rakat mein", "C) Ruku mein", "D) Salam se pehle har bar"],
+    "answer": "A"
+  },
+  {
+    "id": 179,
+    "question": "Quran mein kis Sahabi ki biwi (Abu Lahab ki biwi Umm Jamil) ko 'Hattalat-ul-Hatab' (lakri uthane wali) kaha gaya?",
+    "options": ["A) Umm Jamil (Abu Lahab ki wife)", "B) Hind", "C) Asma", "D) Khadija"],
+    "answer": "A"
+  },
+  {
+    "id": 180,
+    "question": "Hazrat Muhammad ﷺ ne kis saal mein 'Hajat-ul-Wada' (Farewell Pilgrimage) ada kiya tha?",
+    "options": ["A) 10 AH", "B) 8 AH", "C) 6 AH", "D) 2 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 181,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Ghashiyah' qiyamat ke ghash (covering event) ka zikr karti hai?",
+    "options": ["A) Surah Al-Ghashiyah", "B) Surah Al-Fajr", "C) Surah Al-Balad", "D) Surah Al-Shams"],
+    "answer": "A"
+  },
+  {
+    "id": 182,
+    "question": "Hazrat Ibrahim AS ko kis badshah ne aag mein dala tha?",
+    "options": ["A) Namrood (Nimrod)", "B) Firaun", "C) Bukht-e-Nasar", "D) Jalut"],
+    "answer": "A"
+  },
+  {
+    "id": 183,
+    "question": "Islam mein 'Azan' ke baad konsi dua padhi sunnat hai?",
+    "options": ["A) Dua-e-Waseelah (Allahumma Rabba hazihid da'watil tammah...)", "B) Surah Ikhlas", "C) Darood-e-Ibrahimi", "D) Ayatul Kursi"],
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "question": "Quran mein kis Nabi ko 'Wa Lqad Arsalna Nuhan ila Qaumihi' ke hawale se sab se pehle rasoolon mein gina gaya?",
+    "options": ["A) Hazrat Nuh AS", "B) Adam AS", "C) Idris AS", "D) Saleh AS"],
+    "answer": "A"
+  },
+  {
+    "id": 185,
+    "question": "Hazrat Uthman RA ka laqab 'Zun-Noorain' kyun para tha?",
+    "options": ["A) Kyunki unke nikah mein Nabi ﷺ ki do betiyan (Ruqayyah aur Umm Kulthum) ek ke baad ek aayin", "B) Unke paas do noor thay", "C) Quran ke do nuskhe banaye", "D) Do masjidein banayi"],
+    "answer": "A"
+  },
+  {
+    "id": 186,
+    "question": "Quran ki kis surat mein 'Surah Al-Fajr' fajar aur das raaton ki qasam khati hai?",
+    "options": ["A) Surah Al-Fajr", "B) Surah Al-Balad", "C) Surah Al-Shams", "D) Surah Al-Lail"],
+    "answer": "A"
+  },
+  {
+    "id": 187,
+    "question": "Hazrat Musa AS ne jab Madyan ki taraf hijrat ki thi toh kitne saal wahan rahe thay?",
+    "options": ["A) 10 saal (shadi aur wald ki khidmat ke baad)", "B) 2 saal", "C) 5 saal", "D) 20 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 188,
+    "question": "Islam mein 'Salam' pherte waqt kis taraf pehle munh kiya jata hai?",
+    "options": ["A) Dahine (Right) taraf aur phir Bayen (Left) taraf", "B) Sirf Bayen taraf", "C) Samne", "D) Neeche"],
+    "answer": "A"
+  },
+  {
+    "id": 189,
+    "question": "Quran mein kis Sahabi ko 'Abu Hurairah' (billiyon wala) ka kunyah diya gaya?",
+    "options": ["A) Abdur Rahman bin Sakhr ad-Dawsari", "B) Bilal RA", "C) Talha RA", "D) Zayd RA"],
+    "answer": "A"
+  },
+  {
+    "id": 190,
+    "question": "Hazrat Muhammad ﷺ ki kis beti ka inteqal Zindagi hi mein ho gaya tha jinse Hazrat Uthman RA ki shadi thi?",
+    "options": ["A) Ruqayyah RA aur Umm Kulthum RA", "B) Zainab RA", "C) Fatima RA", "D) Koi nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 191,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Balad' Makkah ke shehar ki qasam khati hai?",
+    "options": ["A) Surah Al-Balad", "B) Surah Al-Shams", "C) Surah Al-Lail", "D) Surah Ad-Duha"],
+    "answer": "A"
+  },
+  {
+    "id": 192,
+    "question": "Hazrat Isa AS ko kis yahudi sardaar ya hukamran ke daur mein suli par chadhane ki koshish ki gayi (jise Allah ne bacha liya)?",
+    "options": ["A) Pontius Pilate (Roman governor) / Yahudi sardar", "B) Firaun", "C) Nebuchadnezzar", "D) Caesar"],
+    "answer": "A"
+  },
+  {
+    "id": 193,
+    "question": "Islam mein 'Namaz-e-Janaza' mein konsi cheez nahi hoti?",
+    "options": ["A) Ruku aur Sajdah nahi hota (sirf qayam mein hoti hai)", "B) Qiraat hoti hai", "C) Salam hota hai", "D) Dua hoti hai"],
+    "answer": "A"
+  },
+  {
+    "id": 194,
+    "question": "Quran mein kis Nabi ko 'Wa Ibrahima Iz Qaala Li Qaumihi' ke hawale سے but-parasti ke khilaf chalne wala bataya gaya?",
+    "options": ["A) Hazrat Ibrahim AS", "B) Musa AS", "C) Nuh AS", "D) Lut AS"],
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "question": "Hazrat Ali RA ki khilafat ke daur mein 'Jang-e-Jamal' (Camel battle) kis sahabi ya sahabiyat ke sath hui thi?",
+    "options": ["A) Bibi Ayesha RA, Talha RA, aur Zubair RA ke sath", "B) Muawiyah RA", "C) Amr bin Aas", "D) Khalid bin Waleed"],
+    "answer": "A"
+  },
+  {
+    "id": 196,
+    "question": "Quran ki kis surat mein 'Surah Al-Shams' sooraj aur uski roshni ki qasam khati hai?",
+    "options": ["A) Surah Al-Shams", "B) Surah Al-Lail", "C) Surah Ad-Duha", "D) Surah Al-Inshirah"],
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "question": "Hazrat Zakariya AS ko bukharpe ke aalam mein Allah ne kis dua par beta (Yahya) ata kiya tha?",
+    "options": ["A) Rabbi la tazarni fardan wa anta khair-ul-waritheen", "B) Rabbi habli minas saleheen", "C) Rabbana atina fid dunya hasanah", "D) Rabbi ishrah li sadri"],
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "question": "Islam mein 'Qurbani ke janwar' ki kam az kam umar (bakra/bakri) kitni honi chahiye?",
+    "options": ["A) 1 saal (aur gaye/bhains 2 saal, oont 5 saal)", "B) 6 mahine", "C) 2 saal", "D) 3 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "question": "Quran mein kis Sahabi ko 'Abu Bakr' ko 'Siddiq' ka laqab kis moqe par mila tha?",
+    "options": ["A) Me'raj ke waqia ki tasdeeq karne par", "B) Badr mein", "C) Hijrat ke waqt", "D) Fateh Makkah par"],
+    "answer": "A"
+  },
+  {
+    "id": 200,
+    "question": "Quran Majeed ki tilawat aur islam ki taleem hasil karna har musalman par kya hai?",
+    "options": ["A) Farz hai", "B) Nafl hai", "C) Sunnat hai", "D) Makrooh hai"],
+    "answer": "A"
+  },
+    {
+    "id": 201,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Ad-Duha' Nabi ﷺ ki tasalli ke liye nazil hui thi?",
+    "options": ["A) Surah Ad-Duha", "B) Surah Al-Inshirah", "C) Surah At-Tin", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 202,
+    "question": "Hazrat Musa AS ko Toor pahad par jaane se pehle kis cheez ka hukam diya gaya tha?",
+    "options": ["A) Jootay utaarne ka (Waadi-e-Muqaddas Tuwa)", "B) Pani peene ka", "C) Roza rakhne ka", "D) Jang karne ka"],
+    "answer": "A"
+  },
+  {
+    "id": 203,
+    "question": "Islam mein 'Sadaqah-e-Jariyah' ka sab se bara faida kya hai?",
+    "options": ["A) Wafat ke baad bhi sawab milta rehta hai", "B) Maal double ho jata hai", "C) Dushman door rehte hain", "D) Sirf duniya mein faida hota hai"],
+    "answer": "A"
+  },
+  {
+    "id": 204,
+    "question": "Quran mein kis Nabi ko 'Bisharah' ke tor par beti (Maryam ki tarah ya Isa ki shakal mein) ya bete ki khushkhabri di gayi?",
+    "options": ["A) Hazrat Zakariya AS ko Yahya ki", "B) Adam AS", "C) Nuh AS", "D) Lut AS"],
+    "answer": "A"
+  },
+  {
+    "id": 205,
+    "question": "Hazrat Uthman RA ke daur mein Quran ko poori ummat ke liye kis standard qirat/dialect par jama kiya gaya?",
+    "options": ["A) Quresh ki boli (Dialect of Quraish)", "B) Madinah ki boli", "C) Farsi", "D) Syriac"],
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "question": "Quran ki kis surat mein 'Surah At-Tin' anjeer aur zaitoon ki qasam khayi gayi hai?",
+    "options": ["A) Surah At-Tin", "B) Surah Al-Inshirah", "C) Surah Ad-Duha", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 207,
+    "question": "Hazrat Sulaiman AS ke waqt mein 'Malika-e-Saba' (Queen of Sheba) ka naam kya tha?",
+    "options": ["A) Bilqis (Balkis)", "B) Asiya", "C) Maryam", "D) Sarah"],
+    "answer": "A"
+  },
+  {
+    "id": 208,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hone ke baad kya kaha jata hai?",
+    "options": ["A) Sami Allahu Liman Hamidah, Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Assalamu Alaikum"],
+    "answer": "A"
+  },
+  {
+    "id": 209,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke baad azeem maqam mila?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 210,
+    "question": "Hazrat Muhammad ﷺ ke daur mein pehli masjid Madinah ke paas konsi bani thi?",
+    "options": ["A) Masjid-e-Quba", "B) Masjid-e-Nabwi", "C) Masjid-e-Haram", "D) Masjid-e-Aqsa"],
+    "answer": "A"
+  },
+  {
+    "id": 211,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Qadr' Shab-e-Qadr ki fazilat batati hai?",
+    "options": ["A) Surah Al-Qadr", "B) Surah Al-Alaq", "C) Surah At-Tin", "D) Surah Ad-Duha"],
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "question": "Hazrat Yusuf AS ko misr mein kis ne unke bhaiyon se kharida tha?",
+    "options": ["A) Qatfeer (Aziz-e-Misr)", "B) Firaun", "C) Shah-e-Misr", "D) Wazir"],
+    "answer": "A"
+  },
+  {
+    "id": 213,
+    "question": "Islam mein 'Tayamum' kis cheez se kiya jata hai?",
+    "options": ["A) Paak mitti (Clean soil/earth)", "B) Rait se", "C) Patthar se", "D) Ret ya paani se"],
+    "answer": "A"
+  },
+  {
+    "id": 214,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Idris' ke tor par buland maqaam par uthaye jaane ka zikr hai?",
+    "options": ["A) Hazrat Idris AS", "B) Nuh AS", "C) Ilyas AS", "D) Ayyub AS"],
+    "answer": "A"
+  },
+  {
+    "id": 215,
+    "question": "Hazrat Abu Bakr RA ke daur mein kis sahabi ne 'Musailma Kazzab' ke khilaf jang mein shahadat paayi?",
+    "options": ["A) Hazraat-e-Kiram aur Huffaz (Jang-e-Yamama mein)", "B) Khalid bin Waleed", "C) Umar", "D) Ali"],
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "question": "Quran ki kis surat mein 'Surah Al-Bayyinah' saaf daleel ka zikr karti hai?",
+    "options": ["A) Surah Al-Bayyinah", "B) Surah Al-Qadr", "C) Surah Al-Alaq", "D) Surah At-Tin"],
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "question": "Hazrat Nuh AS ki kashti kis pahad par thehri thi?",
+    "options": ["A) Koh-e-Judi", "B) Koh-e-Tur", "C) Koh-e-Noor", "D) Uhod"],
+    "answer": "A"
+  },
+  {
+    "id": 218,
+    "question": "Islam mein 'Juma ki Namaz' mein kitni rakats farz hain?",
+    "options": ["A) 2 rakats", "B) 4 rakats", "C) 3 rakats", "D) 1 rakat"],
+    "answer": "A"
+  },
+  {
+    "id": 219,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah azeem sharaf mila?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 220,
+    "question": "Hazrat Muhammad ﷺ ke dada ka naam kya tha?",
+    "options": ["A) Abdul Muttalib", "B) Hashim", "C) Qusay", "D) Asad"],
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Az-Zalzalah' zameen ke hilne ka zikr karti hai?",
+    "options": ["A) Surah Az-Zalzalah", "B) Surah Al-Bayyinah", "C) Surah Al-Qariah", "D) Surah Al-Adiyat"],
+    "answer": "A"
+  },
+  {
+    "id": 222,
+    "question": "Hazrat Isa AS ki walida ka naam kya tha?",
+    "options": ["A) Bibi Maryam bint Imran", "B) Sarah", "C) Hajra", "D) Asiya"],
+    "answer": "A"
+  },
+  {
+    "id": 223,
+    "question": "Islam mein 'Qasr' (Shortening of prayer) kis halat mein ki jati hai?",
+    "options": ["A) Safar (Travel) ke dauran", "B) Bimari", "C) Neend", "D) Khauf"],
+    "answer": "A"
+  },
+  {
+    "id": 224,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Isa' ke tor par roohullah kaha gaya?",
+    "options": ["A) Hazrat Isa AS", "B) Musa AS", "C) Ibrahim AS", "D) Adam AS"],
+    "answer": "A"
+  },
+  {
+    "id": 225,
+    "question": "Hazrat Umar RA ne apne daur mein kis calendar ko aam kiya?",
+    "options": ["A) Hijri Calendar", "B) Gregorian", "C) Solar", "D) Roman"],
+    "answer": "A"
+  },
+  {
+    "id": 226,
+    "question": "Quran ki kis surat mein 'Surah Al-Adiyat' ghode ki taqon aur doudne ka zikr karti hai?",
+    "options": ["A) Surah Al-Adiyat", "B) Surah Az-Zalzalah", "C) Surah Al-Qariah", "D) Surah At-Takathur"],
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "question": "Hazrat Musa AS ka aasa kis cheez par mara tha ke paani ke chashme phoot pare thay?",
+    "options": ["A) Pathar (Rock) par", "B) Zameen par", "C) Dariya mein", "D) Pahaad par"],
+    "answer": "A"
+  },
+  {
+    "id": 228,
+    "question": "Islam mein 'Sajdah-e-Sahw' kab kiya jata hai?",
+    "options": ["A) Namaz mein ghalti ya bhool hone par aakhir mein", "B) Shuru mein", "C) Wuzu ke baad", "D) Qunoot mein"],
+    "answer": "A"
+  },
+  {
+    "id": 229,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 230,
+    "question": "Hazrat Muhammad ﷺ ki kis beti ki shadi Hazrat Usman RA se hui thi?",
+    "options": ["A) Ruqayyah RA aur Umm Kulthum RA", "B) Fatima RA", "C) Zainab RA", "D) Koi nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Qariah' qiyamat ke shor ka zikr karti hai?",
+    "options": ["A) Surah Al-Qariah", "B) Surah Az-Zalzalah", "C) Surah Al-Adiyat", "D) Surah At-Takathur"],
+    "answer": "A"
+  },
+  {
+    "id": 232,
+    "question": "Hazrat Yusuf AS ko misr ke kis wazir ne kharida tha?",
+    "options": ["A) Qatfeer (Aziz-e-Misr)", "B) Firaun", "C) Shah", "D) Wazir-e-Azam"],
+    "answer": "A"
+  },
+  {
+    "id": 233,
+    "question": "Islam mein 'Ramazan' ke rozay kis san Hijri mein farz hue thay?",
+    "options": ["A) 2 AH", "B) 1 AH", "C) 3 AH", "D) 4 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Yunus' ke tor par machli wale ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Yunus AS", "B) Ayyub AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 235,
+    "question": "Hazrat Uthman RA ki shahadat kis saal Hijri mein hui thi?",
+    "options": ["A) 35 AH", "B) 40 AH", "C) 30 AH", "D) 25 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 236,
+    "question": "Quran ki kis surat mein 'Surah At-Takathur' maal ki kasrat mein fakhr karne ki ninda karti hai?",
+    "options": ["A) Surah At-Takathur", "B) Surah Al-Qariah", "C) Surah Al-Asr", "D) Surah Al-Humazah"],
+    "answer": "A"
+  },
+  {
+    "id": 237,
+    "question": "Hazrat Musa AS ke bade bhai ka naam kya tha?",
+    "options": ["A) Hazrat Harun AS", "B) Yusuf AS", "C) Yahya AS", "D) Ilyas AS"],
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "question": "Islam mein 'Juma' ke din kis surat ki tilawat ki khas fazilat hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Mulk"],
+    "answer": "A"
+  },
+  {
+    "id": 239,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ko pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "question": "Hazrat Muhammad ﷺ ke nana ka naam kya tha?",
+    "options": ["A) Wahab bin Abd Manaf", "B) Abdul Muttalib", "C) Hashim", "D) Qusay"],
+    "answer": "A"
+  },
+  {
+    "id": 241,
+    "question": "Quran Majeed mein kul kitni aayatein hain (aam riwayat)?",
+    "options": ["A) 6236 aayatein", "B) 5000", "C) 7000", "D) 6666"],
+    "answer": "A"
+  },
+  {
+    "id": 242,
+    "question": "Hazrat Ibrahim AS ke bete Ishaq AS ki aulaad mein se kaunse mashhoor Nabi aaye?",
+    "options": ["A) Hazrat Yaqub AS", "B) Musa AS", "C) Isa AS", "D) Muhammad ﷺ"],
+    "answer": "A"
+  },
+  {
+    "id": 243,
+    "question": "Islam mein 'Tawaf' ka shuru aur khatam kahan se hota hai?",
+    "options": ["A) Hajr-e-Aswad (Black Stone)", "B) Maqam-e-Ibrahim", "C) Safa", "D) Rukun Yamani"],
+    "answer": "A"
+  },
+  {
+    "id": 244,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Lutan' ke tor par Lut AS ki qaum ka azaab bataya gaya?",
+    "options": ["A) Hazrat Lut AS", "B) Nuh AS", "C) Saleh AS", "D) Hud AS"],
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein kis azeem fatih ne 'Yarmouk' ki jang mein romiyon ko shikast di?",
+    "options": ["A) Hazrat Khalid bin Waleed RA", "B) Amr bin Aas", "C) Saad bin Abi Waqas", "D) Abu Ubaidah"],
+    "answer": "A"
+  },
+  {
+    "id": 246,
+    "question": "Quran ki kis surat ko 'Surah Al-Baqarah' mein sab se azeem aayat ke sath joda gaya hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah Al-Imran", "C) Surah An-Nisa", "D) Surah Al-Maidah"],
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "question": "Hazrat Sulaiman AS ko hawa aur Jinnat par hukumat kis dua ke nateejey mein mili thi?",
+    "options": ["A) 'Rabbi ighfir li wa hab li mulkan la yanbaghi li ahadin min ba'di'", "B) Rabbi habli minas saleheen", "C) Rabbana atina fid dunya", "D) Rabbi ishrah li sadri"],
+    "answer": "A"
+  },
+  {
+    "id": 248,
+    "question": "Islam mein 'Zakat' ki kitni miskeen categories Quran mein bayan ki gayi hain?",
+    "options": ["A) 8 categories", "B) 5 categories", "C) 10 categories", "D) 3 categories"],
+    "answer": "A"
+  },
+  {
+    "id": 249,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-ul-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 250,
+    "question": "Quran Majeed ke is 250 questions ke safar mein aapka yeh quiz pool kaisa chal raha hai?",
+    "options": ["A) Alhamdulillah, Behtareen aur Zabardast!", "B) Sahi nahi", "C) Bohat lamba", "D) Normal"],
+    "answer": "A"
+  },
+    {
+    "id": 251,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Humazah' chugli khane aur maal jama karne walon ki ninda karti hai?",
+    "options": ["A) Surah Al-Humazah", "B) Surah Al-Asr", "C) Surah At-Takathur", "D) Surah Al-Ma'un"],
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "question": "Hazrat Yunus AS ki qaum ne jab azaab ke aasar dekhe toh unhon ne kya kiya tha?",
+    "options": ["A) Sab ne mil kar sachi tauba aur astaghfirullah ki, jis se azaab tal gaya", "B) Shehar chhod diya", "C) Jang ki", "D) Kuch nahi kiya"],
+    "answer": "A"
+  },
+  {
+    "id": 253,
+    "question": "Islam mein 'Zakat' ada karne ki shart mein se 'Nisab' poora hone ke kitne arsay tak mal par hona lazmi hai?",
+    "options": ["A) Aik Qamari saal (Lunar year / Hawl-e-Mal)", "B) 6 mahine", "C) 2 saal", "D) 1 mahina"],
+    "answer": "A"
+  },
+  {
+    "id": 254,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Idris La Minal Mursaleen' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Idris AS", "B) Nuh AS", "C) Ilyas AS", "D) Ayyub AS"],
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "question": "Hazrat Ali RA ki shahadat ke baad sab se pehle kis sahabi ko Kufa ya Iraq mein bay'at di gayi?",
+    "options": ["A) Hazrat Hasan bin Ali RA", "B) Muawiyah RA", "C) Husain RA", "D) Abdullah bin Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 256,
+    "question": "Quran ki kis surat mein 'Surah Al-Ma'un' yateem ko dhakk Dene aur namaz mein ghaflat baratne walon ka zikr karti hai?",
+    "options": ["A) Surah Al-Ma'un", "B) Surah Al-Humazah", "C) Surah Al-Asr", "D) Surah Al-Quraysh"],
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "question": "Hazrat Musa AS ne jab firaun ke darbaar mein lathi phenki thi toh wo kya ban gayi تھی?",
+    "options": ["A) Aik bara sa saap ya azeem saanp (Su'ban / Python)", "B) Aag", "C) Talwar", "D) Pani ka chashma"],
+    "answer": "A"
+  },
+  {
+    "id": 258,
+    "question": "Islam mein 'Ruku' se uthte waqt kya kaha jata hai?",
+    "options": ["A) Sami Allahu Liman Hamidah, Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Assalamu Alaikum"],
+    "answer": "A"
+  },
+  {
+    "id": 259,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete 'Usama' ko 'Lashkar-e-Usama' ka commander kis ne banaya tha?",
+    "options": ["A) Hazrat Abu Bakr RA ne (apni khilafat ke shuru mein)", "B) Nabi ﷺ ne wafat se theek pehle", "C) Umar RA", "D) Ali RA"],
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "question": "Hazrat Muhammad ﷺ ne kis saal mein 'Makkah' se 'Madinah' hijrat ki thi?",
+    "options": ["A) 622 AD (1st Hijri)", "B) 610 AD", "C) 630 AD", "D) 615 AD"],
+    "answer": "A"
+  },
+  {
+    "id": 261,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Quraysh' Quresh ke tijarti safaron (winter/summer) ka zikr karti hai?",
+    "options": ["A) Surah Al-Quraysh", "B) Surah Al-Fil", "C) Surah Al-Ma'un", "D) Surah Al-Kawthar"],
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "question": "Hazrat Ayyub AS ki biwi ka naam kya tha jinhon ne har mushkil mein unka sath diya tha?",
+    "options": ["A) Hazrat Rahmah (ya Raheel)", "B) Sarah", "C) Maryam", "D) Asiya"],
+    "answer": "A"
+  },
+  {
+    "id": 263,
+    "question": "Islam mein 'Qasr' (Shortening of prayers) kis halat mein ki jati hai?",
+    "options": ["A) Safar (Travel) ke dauran (jab musafat tay shuda ho)", "B) Bimari mein", "C) Neend mein", "D) Khauf mein"],
+    "answer": "A"
+  },
+  {
+    "id": 264,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Zakariyya' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Zakariya AS", "B) Yahya AS", "C) Isa AS", "D) Ilyas AS"],
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "question": "Hazrat Abu Bakr RA ke daur-e-khilafat mein kis sahabi ne 'Musailma Kazzab' ko qatal kiya tha?",
+    "options": ["A) Wahshi ibn Harb (jinhon ne pehle Hamza RA ko shaheed kiya tha)", "B) Khalid bin Waleed", "C) Umar", "D) Ali"],
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "question": "Quran ki kis surat mein 'Surah Al-Kawthar' kausar aur dushman ke be-naam hone ki khabar hai?",
+    "options": ["A) Surah Al-Kawthar", "B) Surah Al-Ma'un", "C) Surah Al-Quraysh", "D) Surah Al-Nasr"],
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "question": "Hazrat Sulaiman AS ke paas kis parinday ne malkka-e-saba ki khabar la kar di thi?",
+    "options": ["A) Hudhud", "B) Baaz", "C) Cheel", "D) Kabootar"],
+    "answer": "A"
+  },
+  {
+    "id": 268,
+    "question": "Islam mein 'Juma ki Namaz' mein kitni rakats farz hain?",
+    "options": ["A) 2 rakats (aur baqi sunnats hain)", "B) 4 rakats", "C) 3 rakats", "D) 1 rakat"],
+    "answer": "A"
+  },
+  {
+    "id": 269,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Sabit' ke sath katib-e-wahi ke tor par sab se ahem maqaam mila?",
+    "options": ["A) Ubay bin Ka'b, Muawiyah bin Abi Sufyan, aur digar", "B) Abu Bakr", "C) Bilal", "D) Talha"],
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "question": "Hazrat Muhammad ﷺ ki kis phuphi ke bete 'Zubair bin Awwam' thay?",
+    "options": ["A) Safiyyah bint Abdul Muttalib ke bete", "B) Atikah", "C) Barakah", "D) Arwa"],
+    "answer": "A"
+  },
+  {
+    "id": 271,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Kafirun' ke baad 'Surah An-Nasr' fatah ki khabar deti hai?",
+    "options": ["A) Surah An-Nasr", "B) Surah Al-Masad", "C) Surah Al-Ikhlas", "D) Surah Al-Falaq"],
+    "answer": "A"
+  },
+  {
+    "id": 272,
+    "question": "Hazrat Isa AS ki walida Maryam ke walid ka naam kya tha?",
+    "options": ["A) Imran", "B) Zakariya", "C) Dawood", "D) Harun"],
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "question": "Islam mein 'Tayamum' karne ka tareeqa kya hai?",
+    "options": ["A) Paak mitti par haath maar kar chehre aur haathon par pherna", "B) Sirf paani ki jagah tayel lagana", "C) Kapde se saaf karna", "D) Rait phenkna"],
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Isa' ke tor par roohullah kaha gaya?",
+    "options": ["A) Hazrat Isa AS", "B) Musa AS", "C) Ibrahim AS", "D) Adam AS"],
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "question": "Hazrat Umar RA ne apne daur mein kis naye 'Calendar' ki buniyad rakhi thi?",
+    "options": ["A) Hijri Calendar", "B) Gregorian calendar", "C) Solar calendar", "D) Roman calendar"],
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "question": "Quran ki kis surat mein 'Surah Al-Masad' (Lahab) Abu Lahab aur uski biwi ka anjaam sunati hai?",
+    "options": ["A) Surah Al-Masad (Al-Lahab)", "B) Surah An-Nasr", "C) Surah Al-Ikhlas", "D) Surah Al-Kafirun"],
+    "answer": "A"
+  },
+  {
+    "id": 277,
+    "question": "Hazrat Nuh AS ki kashti kis pahad par aakar thehri thi?",
+    "options": ["A) Koh-e-Judi", "B) Koh-e-Tur", "C) Koh-e-Noor", "D) Uhod"],
+    "answer": "A"
+  },
+  {
+    "id": 278,
+    "question": "Islam mein 'Sajdah-e-Sahw' kab kiya jata hai?",
+    "options": ["A) Namaz mein koi ghalti ya bhool hone par aakhir mein do sajday karna", "B) Namaz ke shuru mein", "C) Wuzu ke baad", "D) Qunoot mein"],
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah Azad kardah ghulam aur azeem sahabi kaha gaya?",
+    "options": ["A) Hazrat Bilal bin Rabah RA", "B) Talha", "C) Zubair", "D) Saad"],
+    "answer": "A"
+  },
+  {
+    "id": 280,
+    "question": "Hazrat Muhammad ﷺ ki kis beti ki shadi Hazrat Ali RA se hui thi?",
+    "options": ["A) Bibi Fatima Zahra RA", "B) Ruqayyah RA", "C) Umm Kulthum RA", "D) Zainab RA"],
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Ikhlas' Allah ke ek hone ki gawahi deti hai?",
+    "options": ["A) Surah Al-Ikhlas", "B) Surah An-Nas", "C) Surah Al-Falaq", "D) Surah Al-Kafirun"],
+    "answer": "A"
+  },
+  {
+    "id": 282,
+    "question": "Hazrat Yusuf AS ko misr mein kis azeez ya wazir ne kharida tha?",
+    "options": ["A) Qatfeer (Potiphar / Aziz-e-Misr)", "B) Firaun", "C) Shah-e-Misr", "D) Wazir-e-Azam"],
+    "answer": "A"
+  },
+  {
+    "id": 283,
+    "question": "Islam mein 'Ramazan' ke rozon ki fardiyat kis Hijri saal mein hui thi?",
+    "options": ["A) 2 AH", "B) 1 AH", "C) 3 AH", "D) 4 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Yunus' ke tor par machli wale ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Yunus AS", "B) Ayyub AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "question": "Hazrat Uthman RA ki shahadat kis saal Hijri mein hui thi?",
+    "options": ["A) 35 AH (Zul-Hijjah mein)", "B) 40 AH", "C) 30 AH", "D) 25 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 286,
+    "question": "Quran ki kis surat mein 'Surah Al-Falaq' aur 'Surah An-Nas' ko aakhri do suratein (Mu'awwidhatayn) kaha jata hai?",
+    "options": ["A) Surah Al-Falaq aur Surah An-Nas", "B) Surah Ikhlas", "C) Surah Fatiha", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "question": "Hazrat Musa AS ke bade bhai Harun AS ki wafat kahan aur kab hui thi?",
+    "options": ["A) Toor pahad ke qareeb maidan-e-Teeh mein (wafat se pehle)", "B) Makkah mein", "C) Madinah mein", "D) Misr mein"],
+    "answer": "A"
+  },
+  {
+    "id": 288,
+    "question": "Islam mein 'Juma' ke din kis surat ki tilawat ki khas fazilat aayi hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Mulk"],
+    "answer": "A"
+  },
+  {
+    "id": 289,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ke sath pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 290,
+    "question": "Hazrat Muhammad ﷺ ke nana ka naam kya tha?",
+    "options": ["A) Wahab bin Abd Manaf", "B) Abdul Muttalib", "C) Hashim", "D) Qusay"],
+    "answer": "A"
+  },
+  {
+    "id": 291,
+    "question": "Quran Majeed mein kul kitni aayatein (verses) hain (aam riwayat ke mutabiq)?",
+    "options": ["A) 6236 aayatein", "B) 5000", "C) 7000", "D) 6666"],
+    "answer": "A"
+  },
+  {
+    "id": 292,
+    "question": "Hazrat Ibrahim AS ke bete Ishaq AS ki aulaad mein se kaunse mashhoor Nabi aaye?",
+    "options": ["A) Hazrat Yaqub AS aur phir Yusuf AS", "B) Musa AS", "C) Isa AS", "D) Muhammad ﷺ"],
+    "answer": "A"
+  },
+  {
+    "id": 293,
+    "question": "Islam mein 'Tawaf' ka shuru aur khatam kahan se hota hai?",
+    "options": ["A) Hajr-e-Aswad (Black Stone) ke saamne se", "B) Maqam-e-Ibrahim se", "C) Safa se", "D) Rukun Yamani se"],
+    "answer": "A"
+  },
+  {
+    "id": 294,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Lutan' ke tor par Lut AS ki qaum ka azaab bataya gaya?",
+    "options": ["A) Hazrat Lut AS", "B) Nuh AS", "C) Saleh AS", "D) Hud AS"],
+    "answer": "A"
+  },
+  {
+    "id": 295,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein kis azeem fatih ne 'Yarmouk' ki jang mein romiyon ko shikast di?",
+    "options": ["A) Hazrat Khalid bin Waleed RA", "B) Amr bin Aas", "C) Saad bin Abi Waqas", "D) Abu Ubaidah"],
+    "answer": "A"
+  },
+  {
+    "id": 296,
+    "question": "Quran ki kis surat ko 'Surah Al-Baqarah' mein sab se azeem aayat (Ayat-ul-Kursi) ke sath joda gaya hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah Al-Imran", "C) Surah An-Nisa", "D) Surah Al-Maidah"],
+    "answer": "A"
+  },
+  {
+    "id": 297,
+    "question": "Hazrat Sulaiman AS ko hawa aur Jinnat par hukumat kis dua ke nateejey mein mili thi?",
+    "options": ["A) 'Rabbi ighfir li wa hab li mulkan la yanbaghi li ahadin min ba'di'", "B) Rabbi habli minas saleheen", "C) Rabbana atina fid dunya", "D) Rabbi ishrah li sadri"],
+    "answer": "A"
+  },
+  {
+    "id": 298,
+    "question": "Islam mein 'Zakat' ki kitni miskeen/mustahiq categories Quran mein bayan ki gayi hain?",
+    "options": ["A) 8 categories (Surah At-Tawbah mein)", "B) 5 categories", "C) 10 categories", "D) 3 categories"],
+    "answer": "A"
+  },
+  {
+    "id": 299,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-ul-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "question": "Quran Majeed aur Islam ke is 300 questions ke safar mein aapka yeh quiz pool kaisa chal raha hai?",
+    "options": ["A) Alhamdulillah, Bohat hi shandar aur behtareen!", "B) Sahi nahi", "C) Mushkil", "D) Aam sa"],
+    "answer": "A"
+  },
+    {
+    "id": 301,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Humazah' chugli khane aur maal jama karne walon ki ninda karti hai?",
+    "options": ["A) Surah Al-Humazah", "B) Surah Al-Asr", "C) Surah At-Takathur", "D) Surah Al-Ma'un"],
+    "answer": "A"
+  },
+  {
+    "id": 302,
+    "question": "Hazrat Yunus AS ki qaum ne jab azaab ke aasar dekhe toh unhon ne kya kiya tha?",
+    "options": ["A) Sab ne mil kar sachi tauba aur astaghfirullah ki, jis se azaab tal gaya", "B) Shehar chhod diya", "C) Jang ki", "D) Kuch nahi kiya"],
+    "answer": "A"
+  },
+  {
+    "id": 303,
+    "question": "Islam mein 'Zakat' ada karne ki shart mein se 'Nisab' poora hone ke kitne arsay tak mal par hona lazmi hai?",
+    "options": ["A) Aik Qamari saal (Lunar year / Hawl-e-Mal)", "B) 6 mahine", "C) 2 saal", "D) 1 mahina"],
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Idris La Minal Mursaleen' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Idris AS", "B) Nuh AS", "C) Ilyas AS", "D) Ayyub AS"],
+    "answer": "A"
+  },
+  {
+    "id": 305,
+    "question": "Hazrat Ali RA ki shahadat ke baad sab se pehle kis sahabi ko Kufa ya Iraq mein bay'at di gayi?",
+    "options": ["A) Hazrat Hasan bin Ali RA", "B) Muawiyah RA", "C) Husain RA", "D) Abdullah bin Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 306,
+    "question": "Quran ki kis surat mein 'Surah Al-Ma'un' yateem ko dhakk Dene aur namaz mein ghaflat baratne walon ka zikr karti hai?",
+    "options": ["A) Surah Al-Ma'un", "B) Surah Al-Humazah", "C) Surah Al-Asr", "D) Surah Al-Quraysh"],
+    "answer": "A"
+  },
+  {
+    "id": 307,
+    "question": "Hazrat Musa AS ne jab firaun ke darbaar mein lathi phenki thi toh wo kya ban gayi thi?",
+    "options": ["A) Aik bara sa saap ya azeem saanp (Su'ban / Python)", "B) Aag", "C) Talwar", "D) Pani ka chashma"],
+    "answer": "A"
+  },
+  {
+    "id": 308,
+    "question": "Islam mein 'Ruku' se uthte waqt kya kaha jata hai?",
+    "options": ["A) Sami Allahu Liman Hamidah, Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Assalamu Alaikum"],
+    "answer": "A"
+  },
+  {
+    "id": 309,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete 'Usama' ko 'Lashkar-e-Usama' ka commander kis ne banaya tha?",
+    "options": ["A) Hazrat Abu Bakr RA ne (apni khilafat ke shuru mein)", "B) Nabi ﷺ ne wafat se theek pehle", "C) Umar RA", "D) Ali RA"],
+    "answer": "B"
+  },
+  {
+    "id": 310,
+    "question": "Hazrat Muhammad ﷺ ne kis saal mein 'Makkah' se 'Madinah' hijrat ki thi?",
+    "options": ["A) 622 AD (1st Hijri)", "B) 610 AD", "C) 630 AD", "D) 615 AD"],
+    "answer": "A"
+  },
+  {
+    "id": 311,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Quraysh' Quresh ke tijarti safaron (winter/summer) ka zikr karti hai?",
+    "options": ["A) Surah Al-Quraysh", "B) Surah Al-Fil", "C) Surah Al-Ma'un", "D) Surah Al-Kawthar"],
+    "answer": "A"
+  },
+  {
+    "id": 312,
+    "question": "Hazrat Ayyub AS ki biwi ka naam kya tha jinhon ne har mushkil mein unka sath diya tha?",
+    "options": ["A) Hazrat Rahmah (ya Raheel)", "B) Sarah", "C) Maryam", "D) Asiya"],
+    "answer": "A"
+  },
+  {
+    "id": 313,
+    "question": "Islam mein 'Qasr' (Shortening of prayers) kis halat mein ki jati hai?",
+    "options": ["A) Safar (Travel) ke dauran (jab musafat tay shuda ho)", "B) Bimari mein", "C) Neend mein", "D) Khauf mein"],
+    "answer": "A"
+  },
+  {
+    "id": 314,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Zakariyya' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Zakariya AS", "B) Yahya AS", "C) Isa AS", "D) Ilyas AS"],
+    "answer": "A"
+  },
+  {
+    "id": 315,
+    "question": "Hazrat Abu Bakr RA ke daur-e-khilafat mein kis sahabi ne 'Musailma Kazzab' ko qatal kiya tha?",
+    "options": ["A) Wahshi ibn Harb (jinhon ne pehle Hamza RA ko shaheed kiya tha)", "B) Khalid bin Waleed", "C) Umar", "D) Ali"],
+    "answer": "A"
+  },
+  {
+    "id": 316,
+    "question": "Quran ki kis surat mein 'Surah Al-Kawthar' kausar aur dushman ke be-naam hone ki khabar hai?",
+    "options": ["A) Surah Al-Kawthar", "B) Surah Al-Ma'un", "C) Surah Al-Quraysh", "D) Surah Al-Nasr"],
+    "answer": "A"
+  },
+  {
+    "id": 317,
+    "question": "Hazrat Sulaiman AS ke paas kis parinday ne malkka-e-saba ki khabar la kar di thi?",
+    "options": ["A) Hudhud", "B) Baaz", "C) Cheel", "D) Kabootar"],
+    "answer": "A"
+  },
+  {
+    "id": 318,
+    "question": "Islam mein 'Juma ki Namaz' mein kitni rakats farz hain?",
+    "options": ["A) 2 rakats (aur baqi sunnats hain)", "B) 4 rakats", "C) 3 rakats", "D) 1 rakat"],
+    "answer": "A"
+  },
+  {
+    "id": 319,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Sabit' ke sath katib-e-wahi ke tor par sab se ahem maqaam mila?",
+    "options": ["A) Ubay bin Ka'b, Muawiyah bin Abi Sufyan, aur digar", "B) Abu Bakr", "C) Bilal", "D) Talha"],
+    "answer": "A"
+  },
+  {
+    "id": 320,
+    "question": "Hazrat Muhammad ﷺ ki kis phuphi ke bete 'Zubair bin Awwam' thay?",
+    "options": ["A) Safiyyah bint Abdul Muttalib ke bete", "B) Atikah", "C) Barakah", "D) Arwa"],
+    "answer": "A"
+  },
+  {
+    "id": 321,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Kafirun' ke baad 'Surah An-Nasr' fatah ki khabar deti hai?",
+    "options": ["A) Surah An-Nasr", "B) Surah Al-Masad", "C) Surah Al-Ikhlas", "D) Surah Al-Falaq"],
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "question": "Hazrat Isa AS ki walida Maryam ke walid ka naam kya tha?",
+    "options": ["A) Imran", "B) Zakariya", "C) Dawood", "D) Harun"],
+    "answer": "A"
+  },
+  {
+    "id": 323,
+    "question": "Islam mein 'Tayamum' karne ka tareeqa kya hai?",
+    "options": ["A) Paak mitti par haath maar kar chehre aur haathon par pherna", "B) Sirf paani ki jagah tayel lagana", "C) Kapde se saaf karna", "D) Rait phenkna"],
+    "answer": "A"
+  },
+  {
+    "id": 324,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Isa' ke tor par roohullah kaha gaya?",
+    "options": ["A) Hazrat Isa AS", "B) Musa AS", "C) Ibrahim AS", "D) Adam AS"],
+    "answer": "A"
+  },
+  {
+    "id": 325,
+    "question": "Hazrat Umar RA ne apne daur mein kis naye 'Calendar' ki buniyad rakhi thi?",
+    "options": ["A) Hijri Calendar", "B) Gregorian calendar", "C) Solar calendar", "D) Roman calendar"],
+    "answer": "A"
+  },
+  {
+    "id": 326,
+    "question": "Quran ki kis surat mein 'Surah Al-Masad' (Lahab) Abu Lahab aur uski biwi ka anjaam sunati hai?",
+    "options": ["A) Surah Al-Masad (Al-Lahab)", "B) Surah An-Nasr", "C) Surah Al-Ikhlas", "D) Surah Al-Kafirun"],
+    "answer": "A"
+  },
+  {
+    "id": 327,
+    "question": "Hazrat Nuh AS ki kashti kis pahad par aakar thehri thi?",
+    "options": ["A) Koh-e-Judi", "B) Koh-e-Tur", "C) Koh-e-Noor", "D) Uhod"],
+    "answer": "A"
+  },
+  {
+    "id": 328,
+    "question": "Islam mein 'Sajdah-e-Sahw' kab kiya jata hai?",
+    "options": ["A) Namaz mein koi ghalti ya bhool hone par aakhir mein do sajday karna", "B) Namaz ke shuru mein", "C) Wuzu ke baad", "D) Qunoot mein"],
+    "answer": "A"
+  },
+  {
+    "id": 329,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah Azad kardah ghulam aur azeem sahabi kaha gaya?",
+    "options": ["A) Hazrat Bilal bin Rabah RA", "B) Talha", "C) Zubair", "D) Saad"],
+    "answer": "A"
+  },
+  {
+    "id": 330,
+    "question": "Hazrat Muhammad ﷺ ki kis beti ki shadi Hazrat Ali RA se hui thi?",
+    "options": ["A) Bibi Fatima Zahra RA", "B) Ruqayyah RA", "C) Umm Kulthum RA", "D) Zainab RA"],
+    "answer": "A"
+  },
+  {
+    "id": 331,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Ikhlas' Allah ke ek hone ki gawahi deti hai?",
+    "options": ["A) Surah Al-Ikhlas", "B) Surah An-Nas", "C) Surah Al-Falaq", "D) Surah Al-Kafirun"],
+    "answer": "A"
+  },
+  {
+    "id": 332,
+    "question": "Hazrat Yusuf AS ko misr mein kis azeez ya wazir ne kharida tha?",
+    "options": ["A) Qatfeer (Potiphar / Aziz-e-Misr)", "B) Firaun", "C) Shah-e-Misr", "D) Wazir-e-Azam"],
+    "answer": "A"
+  },
+  {
+    "id": 333,
+    "question": "Islam mein 'Ramazan' ke rozon ki fardiyat kis Hijri saal mein hui thi?",
+    "options": ["A) 2 AH", "B) 1 AH", "C) 3 AH", "D) 4 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 334,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Yunus' ke tor par machli wale ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Yunus AS", "B) Ayyub AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 335,
+    "question": "Hazrat Uthman RA ki shahadat kis saal Hijri mein hui thi?",
+    "options": ["A) 35 AH (Zul-Hijjah mein)", "B) 40 AH", "C) 30 AH", "D) 25 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 336,
+    "question": "Quran ki kis surat mein 'Surah Al-Falaq' aur 'Surah An-Nas' ko aakhri do suratein (Mu'awwidhatayn) kaha jata hai?",
+    "options": ["A) Surah Al-Falaq aur Surah An-Nas", "B) Surah Ikhlas", "C) Surah Fatiha", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 337,
+    "question": "Hazrat Musa AS ke bade bhai Harun AS ki wafat kahan aur kab hui thi?",
+    "options": ["A) Toor pahad ke qareeb maidan-e-Teeh mein (wafat se pehle)", "B) Makkah mein", "C) Madinah mein", "D) Misr mein"],
+    "answer": "A"
+  },
+  {
+    "id": 338,
+    "question": "Islam mein 'Juma' ke din kis surat ki tilawat ki khas fazilat aayi hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Mulk"],
+    "answer": "A"
+  },
+  {
+    "id": 339,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ke sath pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 340,
+    "question": "Hazrat Muhammad ﷺ ke nana ka naam kya tha?",
+    "options": ["A) Wahab bin Abd Manaf", "B) Abdul Muttalib", "C) Hashim", "D) Qusay"],
+    "answer": "A"
+  },
+  {
+    "id": 341,
+    "question": "Quran Majeed mein kul kitni aayatein (verses) hain (aam riwayat ke mutabiq)?",
+    "options": ["A) 6236 aayatein", "B) 5000", "C) 7000", "D) 6666"],
+    "answer": "A"
+  },
+  {
+    "id": 342,
+    "question": "Hazrat Ibrahim AS ke bete Ishaq AS ki aulaad mein se kaunse mashhoor Nabi aaye?",
+    "options": ["A) Hazrat Yaqub AS aur phir Yusuf AS", "B) Musa AS", "C) Isa AS", "D) Muhammad ﷺ"],
+    "answer": "A"
+  },
+  {
+    "id": 343,
+    "question": "Islam mein 'Tawaf' ka shuru aur khatam kahan se hota hai?",
+    "options": ["A) Hajr-e-Aswad (Black Stone) ke saamne se", "B) Maqam-e-Ibrahim se", "C) Safa se", "D) Rukun Yamani se"],
+    "answer": "A"
+  },
+  {
+    "id": 344,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Lutan' ke tor par Lut AS ki qaum ka azaab bataya gaya?",
+    "options": ["A) Hazrat Lut AS", "B) Nuh AS", "C) Saleh AS", "D) Hud AS"],
+    "answer": "A"
+  },
+  {
+    "id": 345,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein kis azeem fatih ne 'Yarmouk' ki jang mein romiyon ko shikast di?",
+    "options": ["A) Hazrat Khalid bin Waleed RA", "B) Amr bin Aas", "C) Saad bin Abi Waqas", "D) Abu Ubaidah"],
+    "answer": "A"
+  },
+  {
+    "id": 346,
+    "question": "Quran ki kis surat ko 'Surah Al-Baqarah' mein sab se azeem aayat (Ayat-ul-Kursi) ke sath joda gaya hai?",
+    "options": ["A) Surah Al-Baqarah", "B) Surah Al-Imran", "C) Surah An-Nisa", "D) Surah Al-Maidah"],
+    "answer": "A"
+  },
+  {
+    "id": 347,
+    "question": "Hazrat Sulaiman AS ko hawa aur Jinnat par hukumat kis dua ke nateejey mein mili thi?",
+    "options": ["A) 'Rabbi ighfir li wa hab li mulkan la yanbaghi li ahadin min ba'di'", "B) Rabbi habli minas saleheen", "C) Rabbana atina fid dunya", "D) Rabbi ishrah li sadri"],
+    "answer": "A"
+  },
+  {
+    "id": 348,
+    "question": "Islam mein 'Zakat' ki kitni miskeen/mustahiq categories Quran mein bayan ki gayi hain?",
+    "options": ["A) 8 categories (Surah At-Tawbah mein)", "B) 5 categories", "C) 10 categories", "D) 3 categories"],
+    "answer": "A"
+  },
+  {
+    "id": 349,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-ul-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 350,
+    "question": "Quran Majeed ke is 350 questions ke safar mein aapka yeh quiz pool kaisa chal raha hai?",
+    "options": ["A) Alhamdulillah, Bohat hi shandar aur behtareen!", "B) Sahi nahi", "C) Mushkil", "D) Aam sa"],
+    "answer": "A"
+  },
+    {
+    "id": 351,
+    "question": "Quran Majeed mein sab se pehli nazil hone wali mukammal surat konsi hai?",
+    "options": ["A) Surah Al-Fatiha (kuch riwayat ke mutabiq pehli mukammal surat)", "B) Surah Al-Alaq (pehli aayatein)", "C) Surah Muddassir", "D) Surah Ikhlas"],
+    "answer": "A"
+  },
+  {
+    "id": 352,
+    "question": "Hazrat Yunus AS ki machli ke pait mein kiye gaye zikr ko Quran mein kis naam se pukara gaya?",
+    "options": ["A) Zun-Noon ki tasbeeh", "B) Ayat-e-Karima", "C) Kalima-e-Tayyaba", "D) Darood-e-Pak"],
+    "answer": "B"
+  },
+  {
+    "id": 353,
+    "question": "Islam mein 'Ramazan' ke ilawa kis mahine ke rozay sab se zyada fazilat rakhte hain?",
+    "options": ["A) Muharram (Ashura) aur Shaaban", "B) Rajab", "C) Zilhaj ki pehli 10 tareekh", "D) Safar"],
+    "answer": "A"
+  },
+  {
+    "id": 354,
+    "question": "Quran mein kis Nabi ko 'Al-Siddiq' ke sath Yusuf AS ke qisse mein yaad kiya gaya?",
+    "options": ["A) Hazrat Yusuf AS", "B) Ibrahim AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 355,
+    "question": "Hazrat Uthman RA ki shahadat ke baad kis ne kaebe mein fasad rokne ki koshish ki?",
+    "options": ["A) Ali, Hasan, aur Husain RA", "B) Muawiyah", "C) Amr bin Aas", "D) Talha"],
+    "answer": "A"
+  },
+  {
+    "id": 356,
+    "question": "Quran ki kis surat mein 'Surah Al-Mulk' padhne wale ko qabar ke azaab se bachane ki khabar hai?",
+    "options": ["A) Surah Al-Mulk", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Waqiah"],
+    "answer": "A"
+  },
+  {
+    "id": 357,
+    "question": "Hazrat Musa AS ko Toor pahad par Allah se kalam karne ki wajah se kya laqab mila?",
+    "options": ["A) Kaleem-ullah (Allah se baat karne wala)", "B) Khalil-ullah", "C) Rooh-ullah", "D) Safi-ullah"],
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "question": "Islam mein 'Namaz-e-Janaza' mein Ruku aur Sajdah na hone ki kya wajah hai?",
+    "options": ["A) Kyunki yeh mayyat ke liye dua aur shafa'at hai, na ke rukn-e-ibadat jisme ruku/sajdah ho", "B) Wajah nahi pata", "C) Sunnat nahi", "D) Farz nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 359,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ke sath pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 360,
+    "question": "Hazrat Muhammad ﷺ ke dada Abdul Muttalib ka asal naam kya tha?",
+    "options": ["A) Shayba ibn Hashim", "B) Hashim", "C) Qusay", "D) Asad"],
+    "answer": "A"
+  },
+  {
+    "id": 361,
+    "question": "Quran Majeed mein kul kitne rukoo (sections) hain?",
+    "options": ["A) Lagbhag 540 rukoo", "B) 100", "C) 1000", "D) 300"],
+    "answer": "A"
+  },
+  {
+    "id": 362,
+    "question": "Hazrat Ibrahim AS ke do beto mein se bade bete ka naam kya tha?",
+    "options": ["A) Hazrat Ismail AS", "B) Hazrat Ishaq AS", "C) Yusuf AS", "D) Yaqub AS"],
+    "answer": "A"
+  },
+  {
+    "id": 363,
+    "question": "Islam mein 'Tawaf' ke dauran kitne chakkar (circuits) lagaye jate hain?",
+    "options": ["A) 7 chakkar", "B) 3", "C) 5", "D) 10"],
+    "answer": "A"
+  },
+  {
+    "id": 364,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Nuhan' ke tor par sab se pehle toofan ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Nuh AS", "B) Adam AS", "C) Idris AS", "D) Saleh AS"],
+    "answer": "A"
+  },
+  {
+    "id": 365,
+    "question": "Hazrat Abu Bakr RA ki khilafat ka kul arsa kitna tha?",
+    "options": ["A) 2 saal 3 maheenay 10 din", "B) 10 saal", "C) 5 saal", "D) 1 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 366,
+    "question": "Quran ki kis surat mein 'Surah Al-Kahf' juma ke din padhne par noor milne ki hadees hai?",
+    "options": ["A) Surah Al-Kahf", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Mulk"],
+    "answer": "A"
+  },
+  {
+    "id": 367,
+    "question": "Hazrat Sulaiman AS ka wisaal kis halat mein hua tha?",
+    "options": ["A) Apni lathi (cane) ke sahare khade hue jabke Jinnat kaam kar rahe thay", "B) Bistari par", "C) Jang mein", "D) Safar mein"],
+    "answer": "A"
+  },
+  {
+    "id": 368,
+    "question": "Islam mein 'Zakat' kis cheez par farz nahi hoti?",
+    "options": ["A) Zaati istemaal ki gaadi, ghar aur kapron par", "B) Sone par", "C) Chandi par", "D) Naqdi par"],
+    "answer": "A"
+  },
+  {
+    "id": 369,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ghani' kaha gaya?",
+    "options": ["A) Usman bin Affan RA", "B) Talha", "C) Zubair", "D) Abdur Rahman bin Auf"],
+    "answer": "A"
+  },
+  {
+    "id": 370,
+    "question": "Hazrat Muhammad ﷺ ki walida Amina ka inteqal kab hua jab aap ﷺ ki umar kitni thi?",
+    "options": ["A) 6 saal ki umar mein", "B) Pedaish ke waqt", "C) 10 saal", "D) 2 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 371,
+    "question": "Quran Majeed mein 'Bismillah' kul kitni martaba aayi hai?",
+    "options": ["A) 114 martaba (Surah Naml mein do baar aane ki wajah se poori hoti hain)", "B) 100", "C) 120", "D) 110"],
+    "answer": "A"
+  },
+  {
+    "id": 372,
+    "question": "Hazrat Yunus AS ki machli wale qissay ka zikr Quran ki kis surat mein hai?",
+    "options": ["A) Surah Al-Anbiya aur Surah As-Saffat", "B) Surah Yaseen", "C) Surah Kahf", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 373,
+    "question": "Islam mein 'Sadaqah' dene ki kya fazilat hai?",
+    "options": ["A) Balaon ko talta hai aur maal mein barkat karta hai", "B) Gunah badhata hai", "C) Maal khatam karta hai", "D) Koi asar nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 374,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Ibrahim' ke tor par but-shikan ke taur par yad kiya gaya?",
+    "options": ["A) Hazrat Ibrahim AS", "B) Musa AS", "C) Nuh AS", "D) Lut AS"],
+    "answer": "A"
+  },
+  {
+    "id": 375,
+    "question": "Hazrat Uthman RA ki shahadat ke baad kis din unka dafan hua tha?",
+    "options": ["A) Jannat-ul-Baqi mein rat ke waqt", "B) Din ke waqt", "C) Masjid mein", "D) Makkah mein"],
+    "answer": "A"
+  },
+  {
+    "id": 376,
+    "question": "Quran ki kis surat mein 'Surah Rahman' 'Fabi ayyi alai rabbikuma tukazziban' bar bar dohrati hai?",
+    "options": ["A) Surah Ar-Rahman", "B) Surah Yaseen", "C) Surah Mulk", "D) Surah Waqiah"],
+    "answer": "A"
+  },
+  {
+    "id": 377,
+    "question": "Hazrat Musa AS ke waqt mein firaun ke jadoo-gar jab unke saap se haar gaye toh unhon ne kya kiya?",
+    "options": ["A) Foran iman le aaye aur Allah ko sajda kiya", "B) Bhag gaye", "C) Inkar kar diya", "D) Ladne lage"],
+    "answer": "A"
+  },
+  {
+    "id": 378,
+    "question": "Islam mein 'Ruku' aur 'Sajdah' ke darmiyan khade hone ki halat ko kya kehte hain?",
+    "options": ["A) Qawmah (Ruku ke baad khada hona)", "B) Jalsa (Do sajdon ke beech baithna)", "C) Qayam", "D) Qaid"],
+    "answer": "A"
+  },
+  {
+    "id": 379,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah azeem martaba mila?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 380,
+    "question": "Hazrat Muhammad ﷺ ke chacha 'Hamza' ko kis jang mein shaheed kiya gaya tha?",
+    "options": ["A) Jang-e-Uhod", "B) Jang-e-Badr", "C) Jang-e-Khandaq", "D) Fateh Makkah"],
+    "answer": "A"
+  },
+  {
+    "id": 381,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Yaseen' ko qalb-e-Quran kaha gaya hai?",
+    "options": ["A) Surah Yaseen", "B) Surah Rahman", "C) Surah Mulk", "D) Surah Ikhlas"],
+    "answer": "A"
+  },
+  {
+    "id": 382,
+    "question": "Hazrat Yusuf AS ke walid ka naam kya tha jo khud bhi Nabi thay?",
+    "options": ["A) Hazrat Yaqub AS (Israel)", "B) Ishaq AS", "C) Ibrahim AS", "D) Nuh AS"],
+    "answer": "A"
+  },
+  {
+    "id": 383,
+    "question": "Islam mein 'Tawaf' ke baad konsi namaz padhna sunnat hai?",
+    "options": ["A) Maqam-e-Ibrahim ke peeche 2 rakats namaz-e-tawaf", "B) 4 rakats", "C) Sirf dua", "D) Witr"],
+    "answer": "A"
+  },
+  {
+    "id": 384,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Ismail' ke tor par qurbani ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Ismail AS", "B) Ishaq AS", "C) Yusuf AS", "D) Musa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 385,
+    "question": "Hazrat Abu Bakr RA ke daur mein kis fatih ne Iraq aur Syria ke mahaz par islam ka parcham buland kiya?",
+    "options": ["A) Khalid bin Waleed RA", "B) Amr bin Aas", "C) Saad bin Abi Waqas", "D) Abu Ubaidah"],
+    "answer": "A"
+  },
+  {
+    "id": 386,
+    "question": "Quran ki kis surat mein 'Surah Al-Waqiah' rizq ki kushadgi ke liye padhi jati hai?",
+    "options": ["A) Surah Al-Waqiah", "B) Surah Rahman", "C) Surah Mulk", "D) Surah Yaseen"],
+    "answer": "A"
+  },
+  {
+    "id": 387,
+    "question": "Hazrat Sulaiman AS ko hawa par control kis surat mein bayan hua hai?",
+    "options": ["A) Surah An-Naml aur Surah Saba", "B) Surah Yaseen", "C) Surah Kahf", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 388,
+    "question": "Islam mein 'Zakat' ki adaigi kis par farz hoti hai jo sahib-e-nisab ho aur kitna saal guzre?",
+    "options": ["A) Aik qamari saal (Hawl-e-Mal)", "B) 6 mahine", "C) 2 saal", "D) 1 mahina"],
+    "answer": "A"
+  },
+  {
+    "id": 389,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke ilawa 'Ameen-e-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 390,
+    "question": "Hazrat Muhammad ﷺ ki razai behan ka naam kya tha jo bachpan mein sath thin?",
+    "options": ["A) Shayma bint Al-Harith", "B) Fatima", "C) Zainab", "D) Ayesha"],
+    "answer": "A"
+  },
+  {
+    "id": 391,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Mulk' 30 ayaat par mushtamil hai?",
+    "options": ["A) Surah Al-Mulk", "B) Surah Yaseen", "C) Surah Rahman", "D) Surah Waqiah"],
+    "answer": "A"
+  },
+  {
+    "id": 392,
+    "question": "Hazrat Ayyub AS ko Allah ne unki sabr ke badle kya ata kiya tha?",
+    "options": ["A) Sehat, dugna maal aur naye bachay", "B) Sirf maal", "C) Sirf sehat", "D) Kuch nahi"],
+    "answer": "A"
+  },
+  {
+    "id": 393,
+    "question": "Islam mein 'Sadaqah' aur 'Khairaat' ki kya ahmiyat hai?",
+    "options": ["A) Musibat ko talta hai aur aakhirat ke liye zakhira hai", "B) Kuch nahi", "C) Maal kam karta hai", "D) Sirf dikhawa hai"],
+    "answer": "A"
+  },
+  {
+    "id": 394,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Musa' ke tor par kitab-e-taurat ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Musa AS", "B) Isa AS", "C) Ibrahim AS", "D) Nuh AS"],
+    "answer": "A"
+  },
+  {
+    "id": 395,
+    "question": "Hazrat Umar RA ki shahadat ke baad unke qatil 'Abu Lu'lu'a' ne khud ko kya kar liya tha?",
+    "options": ["A) Khud ko khanjar mar kar khudkashi kar li thi", "B) Bhag gaya tha", "C) Pade gaye aur phansi hui", "D) Maaf ho gaya"],
+    "answer": "A"
+  },
+  {
+    "id": 396,
+    "question": "Quran ki kis surat mein 'Surah Al-Insan' (Hal Ata) ka zikr hai?",
+    "options": ["A) Surah Al-Insan (Ad-Dahr)", "B) Surah Qiyamah", "C) Surah Mursalat", "D) Surah Naba"],
+    "answer": "A"
+  },
+  {
+    "id": 397,
+    "question": "Hazrat Musa AS ke waqt mein firaun ki biwi ka naam kya tha jinhon ne Musa AS ko bachaya tha?",
+    "options": ["A) Bibi Asiya RA", "B) Maryam", "C) Sarah", "D) Hajar"],
+    "answer": "A"
+  },
+  {
+    "id": 398,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hone ki halat ko kya kehte hain?",
+    "options": ["A) Qawmah", "B) Jalsa", "C) Qayam", "D) Qaid"],
+    "answer": "A"
+  },
+  {
+    "id": 399,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke baad sab se pehle shaheed hone walon mein gina gaya?",
+    "options": ["A) Sumayya aur Yasir RA", "B) Hamza", "C) Bilal", "D) Ali"],
+    "answer": "A"
+  },
+  {
+    "id": 400,
+    "question": "Quran Majeed ke is 400 questions ke safar mein aapka yeh quiz pool kaisa chal raha hai?",
+    "options": ["A) Alhamdulillah, Bohat hi behtareen aur shandar!", "B) Sahi nahi", "C) Mushkil", "D) Aam sa"],
+    "answer": "A"
+  },
+    {
+    "id": 401,
+    "question": "Quran Majeed ki konsi surat mein 'Surah An-Naba' qiyamat ki khabar aur anay wale din ka zikr hai?",
+    "options": ["A) Surah An-Naba", "B) Surah An-Nazi'at", "C) Surah Abasa", "D) Surah At-Takwir"],
+    "answer": "A"
+  },
+  {
+    "id": 402,
+    "question": "Hazrat Musa AS ko Toor pahad par Allah Ta'ala ne kitni takhtiyon (Tablets / Alwaah) par Taurat ata ki thi?",
+    "options": ["A) Alwaah par likhi hui cheezein (Tablets)", "B) Sirf zubani", "C) Kitab ki shakal mein", "D) Patthar par"],
+    "answer": "A"
+  },
+  {
+    "id": 403,
+    "question": "Islam mein 'Ramazan' ke rozon ke alawa kis din roza rakhna manaa (haram) hai?",
+    "options": ["A) Eid-ul-Fitr aur Eid-ul-Adha ke dinon mein", "B) Juma ke din", "C) Peer ke din", "D) Sawan mein"],
+    "answer": "A"
+  },
+  {
+    "id": 404,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Ilyas' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Ilyas AS", "B) Elisha AS", "C) Yunus AS", "D) Zakariya AS"],
+    "answer": "A"
+  },
+  {
+    "id": 405,
+    "question": "Hazrat Ali RA ke daur mein kis jang ke baad 'Khawarij' ka fitna samne aaya tha?",
+    "options": ["A) Jang-e-Siffeen (Arbitration ke baad)", "B) Badr", "C) Uhod", "D) Jamal"],
+    "answer": "A"
+  },
+  {
+    "id": 406,
+    "question": "Quran ki kis surat mein 'Surah An-Nazi'at' rooh khichne wale farishton ka zikr karti hai?",
+    "options": ["A) Surah An-Nazi'at", "B) Surah An-Naba", "C) Surah Abasa", "D) Surah Al-Infitar"],
+    "answer": "A"
+  },
+  {
+    "id": 407,
+    "question": "Hazrat Yusuf AS ko jab misr ke badshah ne jail se riha kiya toh unhon ne kya ohda manga?",
+    "options": ["A) Mulk ke khazano par zimmedar (Wazir-e-Khazana)", "B) Badshah ka mushir", "C) Wazir-e-Azam", "D) Sipahsalar"],
+    "answer": "A"
+  },
+  {
+    "id": 408,
+    "question": "Islam mein 'Ruku' aur 'Sajdah' ke baad baithne ki halat mein kya padha jata hai?",
+    "options": ["A) Attahiyyat (Tashahhud)", "B) Surah Fatiha", "C) Darood", "D) Dua-e-Qunoot"],
+    "answer": "A"
+  },
+  {
+    "id": 409,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ko pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 410,
+    "question": "Hazrat Muhammad ﷺ ke chacha 'Abu Talib' ki wafat ke baad kis ne aap ﷺ ko panah di thi?",
+    "options": ["A) Mut'im bin Adi (kafir hone ke bawajud panah di)", "B) Abu Lahab", "C) Abbas", "D) Hamza"],
+    "answer": "A"
+  },
+  {
+    "id": 411,
+    "question": "Quran Majeed mein kul kitne juz (Para) hain?",
+    "options": ["A) 30 Para", "B) 20", "C) 40", "D) 25"],
+    "answer": "A"
+  },
+  {
+    "id": 412,
+    "question": "Hazrat Ibrahim AS ke doosre bete ka naam kya tha jo Ishaq AS ke baad Nabi bane?",
+    "options": ["A) Hazrat Ishaq AS", "B) Ismail AS", "C) Yusuf AS", "D) Yaqub AS"],
+    "answer": "A"
+  },
+  {
+    "id": 413,
+    "question": "Islam mein 'Tawaf' ke sath aur kaunsa rukn Hajj ya Umrah mein lazmi hai?",
+    "options": ["A) Safa aur Marwa ke darmiyan Sa'y", "B) Mina mein theharna", "C) Arafat", "D) Qurbani"],
+    "answer": "A"
+  },
+  {
+    "id": 414,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Zakariyya' ke sath Yahya ka zikr milta hai?",
+    "options": ["A) Hazrat Zakariya AS", "B) Isa AS", "C) Musa AS", "D) Ilyas AS"],
+    "answer": "A"
+  },
+  {
+    "id": 415,
+    "question": "Hazrat Abu Bakr RA ki khilafat ke daur mein 'Zakat' na dene walon ke khilaf konsi jang ladi gayi?",
+    "options": ["A) Jang-e-Ridda", "B) Badr", "C) Uhod", "D) Yarmouk"],
+    "answer": "A"
+  },
+  {
+    "id": 416,
+    "question": "Quran ki kis surat mein 'Surah Abasa' ek andhe sahabi (Abdullah bin Umm Maktum) ke waqt par nazil hui thi?",
+    "options": ["A) Surah Abasa", "B) Surah An-Nazi'at", "C) Surah An-Naba", "D) Surah At-Takwir"],
+    "answer": "A"
+  },
+  {
+    "id": 417,
+    "question": "Hazrat Sulaiman AS ke darbaar mein kis parinday ne aakar Malkka-e-Saba ki khabar di thi?",
+    "options": ["A) Hudhud (Hoopoe)", "B) Baaz", "C) Kabootar", "D) Cheel"],
+    "answer": "A"
+  },
+  {
+    "id": 418,
+    "question": "Islam mein 'Zakat' ki raqam kis par kharch ki jati hai?",
+    "options": ["A) Miskeen, fuqara aur 8 mustahiqin par", "B) Masjid ki tameer par", "C) Badshah par", "D) Apne ghar walon par"],
+    "answer": "A"
+  },
+  {
+    "id": 419,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke ilawa 'Ghani' kaha gaya?",
+    "options": ["A) Usman bin Affan RA", "B) Talha", "C) Zubair", "D) Abdur Rahman bin Auf"],
+    "answer": "A"
+  },
+  {
+    "id": 420,
+    "question": "Hazrat Muhammad ﷺ ki walida Amina ka talluq kis qabeelay se tha?",
+    "options": ["A) Banu Zuhrah (Quresh)", "B) Banu Hashim", "C) Banu Umayya", "D) Banu Makhzum"],
+    "answer": "A"
+  },
+  {
+    "id": 421,
+    "question": "Quran Majeed ki konsi surat mein 'Surah At-Takwir' ka zikr hai?",
+    "options": ["A) Surah At-Takwir", "B) Surah Al-Infitar", "C) Surah Al-Inshiqaq", "D) Surah Al-Burooj"],
+    "answer": "A"
+  },
+  {
+    "id": 422,
+    "question": "Hazrat Yunus AS ki machli ke pait mein kiye gaye zikr ko kya kehte hain?",
+    "options": ["A) La ilaha illa anta subhanaka inni kuntu minaz zalimeen", "B) Ayat-e-Kursi", "C) Kalima Tayyaba", "D) Darood"],
+    "answer": "A"
+  },
+  {
+    "id": 423,
+    "question": "Islam mein 'Sadaqah' aur 'Zakat' mein kya buniyadi farq hai?",
+    "options": ["A) Zakat farz hai aur sadaqah nafl/optional hai", "B) Koi farq nahi", "C) Sadaqah farz hai", "D) Zakat nafl hai"],
+    "answer": "A"
+  },
+  {
+    "id": 424,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Isma'il' ke tor par qurbani ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Ismail AS", "B) Ishaq AS", "C) Yusuf AS", "D) Musa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 425,
+    "question": "Hazrat Uthman RA ki shahadat ke baad kis din unka dafan hua tha?",
+    "options": ["A) Jannat-ul-Baqi mein raat ke waqt", "B) Din ke waqt", "C) Masjid mein", "D) Makkah mein"],
+    "answer": "A"
+  },
+  {
+    "id": 426,
+    "question": "Quran ki kis surat mein 'Surah Al-Infitar' aasmaan ke phatne ka zikr karti hai?",
+    "options": ["A) Surah Al-Infitar", "B) Surah At-Takwir", "C) Surah An-Nazi'at", "D) Surah An-Naba"],
+    "answer": "A"
+  },
+  {
+    "id": 427,
+    "question": "Hazrat Musa AS ki lathi kis cheez mein tabdeel ho gayi thi?",
+    "options": ["A) Saanp (Snake / Python)", "B) Talwar", "C) Pahaad", "D) Aag"],
+    "answer": "A"
+  },
+  {
+    "id": 428,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hokar kya padhte hain?",
+    "options": ["A) Sami Allahu Liman Hamidah, Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Attahiyyat"],
+    "answer": "A"
+  },
+  {
+    "id": 429,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah azeem sharaf mila?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 430,
+    "question": "Hazrat Muhammad ﷺ ke chacha Hazrat Hamza RA ki shahadat kis jang mein hui thi?",
+    "options": ["A) Jang-e-Uhod", "B) Jang-e-Badr", "C) Jang-e-Khandaq", "D) Fateh Makkah"],
+    "answer": "A"
+  },
+  {
+    "id": 431,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Mutaffifin' naap tol mein kami ka zikr karti hai?",
+    "options": ["A) Surah Al-Mutaffifin", "B) Surah Al-Inshiqaq", "C) Surah Al-Burooj", "D) Surah At-Tariq"],
+    "answer": "A"
+  },
+  {
+    "id": 432,
+    "question": "Hazrat Yusuf AS ke kitne saggay bhai thay?",
+    "options": ["A) Sirf 1 sagga bhai (Benjamin) aur baqi 10 sautle bhai thay", "B) 11 saggay", "C) Koi nahi", "D) 5 bhai"],
+    "answer": "A"
+  },
+  {
+    "id": 433,
+    "question": "Islam mein 'Tawaf' ke kitne chakkar hote hain?",
+    "options": ["A) 7 chakkar", "B) 3", "C) 5", "D) 10"],
+    "answer": "A"
+  },
+  {
+    "id": 434,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Lutan' ke tor par Lut AS ki qaum ka azaab bataya gaya?",
+    "options": ["A) Hazrat Lut AS", "B) Nuh AS", "C) Saleh AS", "D) Hud AS"],
+    "answer": "A"
+  },
+  {
+    "id": 435,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein kis sahabi ne Quraan ko pehli baar ek jagah jama kiya?",
+    "options": ["A) Zayd bin Sabit RA", "B) Ubay bin Ka'b", "C) Ali", "D) Umar"],
+    "answer": "A"
+  },
+  {
+    "id": 436,
+    "question": "Quran ki kis surat mein 'Surah Al-Inshiqaq' aasmaan ke phatne aur chaur hone ka zikr karti hai?",
+    "options": ["A) Surah Al-Inshiqaq", "B) Surah Al-Mutaffifin", "C) Surah Al-Infitar", "D) Surah Al-Burooj"],
+    "answer": "A"
+  },
+  {
+    "id": 437,
+    "question": "Hazrat Sulaiman AS ko hawa aur Jinnat par hukumat kis Nabi ki dua ke nateejey mein mili?",
+    "options": ["A) Unki apni dua ('Rabbi ighfir li wa hab li mulkan...')", "B) Hazrat Dawood AS ki dua", "C) Ibrahim AS ki dua", "D) Musa AS ki dua"],
+    "answer": "A"
+  },
+  {
+    "id": 438,
+    "question": "Islam mein 'Zakat' ada karne ki shart mein se 'Nisab' poora hone par kitna fee sad (percentage) hota hai?",
+    "options": ["A) 2.5% (Dhai feesad)", "B) 5%", "C) 10%", "D) 1%"],
+    "answer": "A"
+  },
+  {
+    "id": 439,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-e-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 440,
+    "question": "Hazrat Muhammad ﷺ ki razai walida ka naam kya tha jinhon ne doodh pilaya tha?",
+    "options": ["A) Bibi Halima Sa'diyyah RA", "B) Thuwaybah", "C) Barakah", "D) Asiya"],
+    "answer": "A"
+  },
+  {
+    "id": 441,
+    "question": "Quran Majeed mein kul kitni Manzil hain?",
+    "options": ["A) 7 Manzilain", "B) 5", "C) 10", "D) 30"],
+    "answer": "A"
+  },
+  {
+    "id": 442,
+    "question": "Hazrat Ayyub AS ke sabr ka imtihan kitne arsay tak chalta raha tha?",
+    "options": ["A) Kayi saal (kuch riwayat ke mutabiq 7 ya 18 saal)", "B) 1 saal", "C) 6 mahine", "D) 40 din"],
+    "answer": "A"
+  },
+  {
+    "id": 443,
+    "question": "Islam mein 'Sadaqah-e-Jariyan' ki sab se achi misaal kya hai?",
+    "options": ["A) Masjid banana, kuwa khodna, ya ilm phailana", "B) Sirf paisa dena", "C) Kapray dena", "D) Khana khilana"],
+    "answer": "A"
+  },
+  {
+    "id": 444,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Yunus' ke tor par machli wale ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Yunus AS", "B) Ayyub AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "question": "Hazrat Umar RA ki shahadat ke baad kis sahabi ne unke janaze ki namaz padhayi?",
+    "options": ["A) Hazrat Suhaib Rumi RA", "B) Ali RA", "C) Uthman RA", "D) Zubair RA"],
+    "answer": "A"
+  },
+  {
+    "id": 446,
+    "question": "Quran ki kis surat mein 'Surah Al-Burooj' aag ke khandon (Ashab al-Ukhdud) ka zikr karti hai?",
+    "options": ["A) Surah Al-Burooj", "B) Surah Al-Inshiqaq", "C) Surah At-Tariq", "D) Surah Al-A'la"],
+    "answer": "A"
+  },
+  {
+    "id": 447,
+    "question": "Hazrat Musa AS ko jab firaun ke ghar pala gaya tha toh kis ne unki nigehbani ki thi?",
+    "options": ["A) Bibi Asiya aur unki sagi behn (Miriam) ne", "B) Firaun ne khud", "C) Wazir ne", "D) Sipahis ne"],
+    "answer": "A"
+  },
+  {
+    "id": 448,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hone ke baad kya tasbeeh padhi jati hai?",
+    "options": ["A) Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Subhana Rabbiyal A'la"],
+    "answer": "A"
+  },
+  {
+    "id": 449,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ke bete Usama ko pyara kaha gaya?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 450,
+    "question": "Quran Majeed ke is 450 questions ke safar mein ab hum aakhri 50 questions ke bilkul qareeb hain!",
+    "options": ["A) Alhamdulillah, Bahut zabardast progress hai!", "B) Sahi nahi", "C) Mushkil", "D) Aam sa"],
+    "answer": "A"
+  },
+    {
+    "id": 451,
+    "question": "Quran Majeed ki konsi surat mein 'Surah At-Tariq' aane wale sitaray aur raat ke waqt ka zikr hai?",
+    "options": ["A) Surah At-Tariq", "B) Surah Al-Burooj", "C) Surah Al-Inshiqaq", "D) Surah Al-A'la"],
+    "answer": "A"
+  },
+  {
+    "id": 452,
+    "question": "Hazrat Musa AS ko Toor pahad par Allah ne kaun si do nishaniyan (Mojzaat) de kar firaun ke paas bheja tha?",
+    "options": ["A) Lathi jo saanp ban jati thi aur roshan haath (White shining hand)", "B) Aag aur paani", "C) Talwar aur zirah", "D) Hawa aur badal"],
+    "answer": "A"
+  },
+  {
+    "id": 453,
+    "question": "Islam mein 'Ramazan' ke roze rakhne ke liye subh sadiq se pehle jo khana khaya jata hai use kya kehte hain?",
+    "options": ["A) Sehri (Sahoor)", "B) Iftar", "C) Naashta", "D) Dawat"],
+    "answer": "A"
+  },
+  {
+    "id": 454,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Al-Yasa' ke tor par yad kiya gaya?",
+    "options": ["A) Hazrat Elisha (Al-Yasa) AS", "B) Ilyas AS", "C) Yunus AS", "D) Zakariya AS"],
+    "answer": "A"
+  },
+  {
+    "id": 455,
+    "question": "Hazrat Ali RA ki khilafat ke daur mein kiske sath sab se pehli jang Siffeen ke maidan mein hui thi?",
+    "options": ["A) Hazrat Muawiyah RA", "B) Talha aur Zubair RA", "C) Khawarij", "D) Romans"],
+    "answer": "A"
+  },
+  {
+    "id": 456,
+    "question": "Quran ki kis surat mein 'Surah Al-A'la' Allah ki pakizgi aur sab se buland zaat ka zikr karti hai?",
+    "options": ["A) Surah Al-A'la", "B) Surah Al-Ghashiyah", "C) Surah Al-Fajr", "D) Surah Al-Balad"],
+    "answer": "A"
+  },
+  {
+    "id": 457,
+    "question": "Hazrat Yusuf AS jab misr ke azeem martabe par pohnche toh unhon ne apne walid (Yaqub AS) aur ghar walon ko kahan bulaya tha?",
+    "options": ["A) Misr (Egypt)", "B) Makkah", "C) Madinah", "D) Sham"],
+    "answer": "A"
+  },
+  {
+    "id": 458,
+    "question": "Islam mein 'Ruku' aur 'Sajdah' ke baad namaz ke aakhir mein kya padh kar salam pherte hain?",
+    "options": ["A) Assalamu Alaikum wa Rahmatullah", "B) Allahu Akbar", "C) Subhanallah", "D) Alhamdulillaah"],
+    "answer": "A"
+  },
+  {
+    "id": 459,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ka qareebi aur pyara beta mana gaya hai?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 460,
+    "question": "Hazrat Muhammad ﷺ ke daur mein Madinah ki pehli jang (Battle of Badr) kis san mein hui thi?",
+    "options": ["A) 2 Hijri (2 AH)", "B) 1 AH", "C) 3 AH", "D) 4 AH"],
+    "answer": "A"
+  },
+  {
+    "id": 461,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Ghashiyah' qiyamat ke ghash (covering event) ka zikr karti hai?",
+    "options": ["A) Surah Al-Ghashiyah", "B) Surah Al-Fajr", "C) Surah Al-Balad", "D) Surah Al-Shams"],
+    "answer": "A"
+  },
+  {
+    "id": 462,
+    "question": "Hazrat Ibrahim AS ko aag se bachane ke baad Allah ne unko kahan hijrat karne ka hukam diya tha?",
+    "options": ["A) Sham (Syria) / Palestine ki taraf", "B) Misr", "C) Yemen", "D) Madinah"],
+    "answer": "A"
+  },
+  {
+    "id": 463,
+    "question": "Islam mein 'Tawaf' ke dauran kis patthar ko choomne ya uski taraf ishq/istemlam karne ka hukam hai?",
+    "options": ["A) Hajr-e-Aswad", "B) Maqam-e-Ibrahim", "C) Rukn Yamani", "D) Safa"],
+    "answer": "A"
+  },
+  {
+    "id": 464,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Yunus' ke tor par machli wale ke hawale se yad kiya gaya?",
+    "options": ["A) Hazrat Yunus AS", "B) Ayyub AS", "C) Musa AS", "D) Isa AS"],
+    "answer": "A"
+  },
+  {
+    "id": 465,
+    "question": "Hazrat Abu Bakr RA ki khilafat mein kis azeem fatih ne 'Damascus' ko fatah kiya tha?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah aur Khalid bin Waleed RA", "B) Amr bin Aas", "C) Saad bin Abi Waqas", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 466,
+    "question": "Quran ki kis surat mein 'Surah Al-Fajr' fajar ki qasam aur andheron ka zikr karti hai?",
+    "options": ["A) Surah Al-Fajr", "B) Surah Al-Balad", "C) Surah Al-Shams", "D) Surah Al-Lail"],
+    "answer": "A"
+  },
+  {
+    "id": 467,
+    "question": "Hazrat Sulaiman AS ke darbaar mein paani ki talash aur khabar lane wala parinda kaun sa tha?",
+    "options": ["A) Hudhud (Hoopoe)", "B) Baaz", "C) Cheel", "D) Kabootar"],
+    "answer": "A"
+  },
+  {
+    "id": 468,
+    "question": "Islam mein 'Zakat' की adaigi ke liye saal poora hone par kitna hissa nikalna hota hai?",
+    "options": ["A) 2.5%", "B) 5%", "C) 10%", "D) 20%"],
+    "answer": "A"
+  },
+  {
+    "id": 469,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-e-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 470,
+    "question": "Hazrat Muhammad ﷺ ki wafaat ke waqt unki umar mubarak kitni thi?",
+    "options": ["A) 63 saal", "B) 60 saal", "C) 65 saal", "D) 50 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 471,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Balad' Makkah shehar ki qasam khati hai?",
+    "options": ["A) Surah Al-Balad", "B) Surah Al-Shams", "C) Surah Al-Lail", "D) Surah Ad-Duha"],
+    "answer": "A"
+  },
+  {
+    "id": 472,
+    "question": "Hazrat Ayyub AS ki bimaari kitne arsay tak unke jism par rahi thi?",
+    "options": ["A) Kayi saal (kuch riwayat mein 7 ya 18 saal)", "B) 1 saal", "C) 6 mahine", "D) 40 din"],
+    "answer": "A"
+  },
+  {
+    "id": 473,
+    "question": "Islam mein 'Sadaqah' aur 'Khairat' ki kya fazilat hai?",
+    "options": ["A) Musibat ko talta hai aur gunahon ko mitata hai", "B) Kuch nahi", "C) Maal khatam karta hai", "D) Sirf dikhawa hai"],
+    "answer": "A"
+  },
+  {
+    "id": 474,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Isa' ke tor par roohullah kaha gaya?",
+    "options": ["A) Hazrat Isa AS", "B) Musa AS", "C) Ibrahim AS", "D) Adam AS"],
+    "answer": "A"
+  },
+  {
+    "id": 475,
+    "question": "Hazrat Umar RA ki khilafat ka kul arsa kitna lamba tha?",
+    "options": ["A) 10 saal 6 maheenay", "B) 5 saal", "C) 2 saal", "D) 12 saal"],
+    "answer": "A"
+  },
+  {
+    "id": 476,
+    "question": "Quran ki kis surat mein 'Surah Al-Shams' sooraj aur uski roshni ki qasam khati hai?",
+    "options": ["A) Surah Al-Shams", "B) Surah Al-Lail", "C) Surah Ad-Duha", "D) Surah Al-Inshirah"],
+    "answer": "A"
+  },
+  {
+    "id": 477,
+    "question": "Hazrat Musa AS ne jab Madyan se wapsi par aag dekhi thi toh wo kahan thi?",
+    "options": ["A) Toor pahad ki aik jhaari (Bush) mein (Waadi-e-Tuwa)", "B) Registan mein", "C) Dariya ke kinare", "D) Pahaad ki choti par"],
+    "answer": "A"
+  },
+  {
+    "id": 478,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hokar kya padhte hain?",
+    "options": ["A) Sami Allahu Liman Hamidah, Rabbana Lakal Hamd", "B) Subhana Rabbiyal Azeem", "C) Allahu Akbar", "D) Attahiyyat"],
+    "answer": "A"
+  },
+  {
+    "id": 479,
+    "question": "Quran mein kis Sahabi ko 'Zaid bin Harithah' ki tarah azeem sharaf mila?",
+    "options": ["A) Usama bin Zaid RA", "B) Bilal", "C) Ali", "D) Zayd"],
+    "answer": "A"
+  },
+  {
+    "id": 480,
+    "question": "Hazrat Muhammad ﷺ ke chacha Hazrat Hamza RA ki shahadat kis jang mein hui thi?",
+    "options": ["A) Jang-e-Uhod", "B) Jang-e-Badr", "C) Jang-e-Khandaq", "D) Fateh Makkah"],
+    "answer": "A"
+  },
+  {
+    "id": 481,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Lail' raat aur din ki qasam khati hai?",
+    "options": ["A) Surah Al-Lail", "B) Surah Al-Shams", "C) Surah Ad-Duha", "D) Surah Al-Inshirah"],
+    "answer": "A"
+  },
+  {
+    "id": 482,
+    "question": "Hazrat Yusuf AS ke bhaiyon ne unhein kuway mein phenkne ke baad walid se kya kaha tha?",
+    "options": ["A) Ke unhein bheriya (Wolf) kha gaya hai", "B) Ke wo kho gaye hain", "C) Ke chor le gaye", "D) Ke wo bhaag gaye"],
+    "answer": "A"
+  },
+  {
+    "id": 483,
+    "question": "Islam mein 'Tawaf' ke kitne chakkar lagane hote hain?",
+    "options": ["A) 7 chakkar", "B) 3", "C) 5", "D) 10"],
+    "answer": "A"
+  },
+  {
+    "id": 484,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Lutan' ke tor par Lut AS ki qaum ka azaab bataya gaya?",
+    "options": ["A) Hazrat Lut AS", "B) Nuh AS", "C) Saleh AS", "D) Hud AS"],
+    "answer": "A"
+  },
+  {
+    "id": 485,
+    "question": "Hazrat Abu Bakr RA ke daur mein Quran ko jama karne ka kaam kis sahabi ne kiya?",
+    "options": ["A) Zayd bin Sabit RA", "B) Ubay bin Ka'b", "C) Ali", "D) Umar"],
+    "answer": "A"
+  },
+  {
+    "id": 486,
+    "question": "Quran ki kis surat mein 'Surah Ad-Duha' subh ki roshni aur raat ki tariki ki qasam khati hai?",
+    "options": ["A) Surah Ad-Duha", "B) Surah Al-Inshirah", "C) Surah At-Tin", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 487,
+    "question": "Hazrat Sulaiman AS ko hawa par control kis surat mein tafseel se milta hai?",
+    "options": ["A) Surah Saba aur Surah An-Naml", "B) Surah Yaseen", "C) Surah Kahf", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 488,
+    "question": "Islam mein 'Zakat' ki adaigi ke liye maal par kitna arsa guzarna zaroori hai?",
+    "options": ["A) Aik qamari saal (Lunar year / Hawl-e-Mal)", "B) 6 mahine", "C) 2 saal", "D) 1 mahina"],
+    "answer": "A"
+  },
+  {
+    "id": 489,
+    "question": "Quran mein kis Sahabi ko 'Zun-Nur' ke sath sath 'Ameen-e-Ummat' kaha gaya?",
+    "options": ["A) Abu Ubaidah bin al-Jarrah RA", "B) Uthman", "C) Talha", "D) Zubair"],
+    "answer": "A"
+  },
+  {
+    "id": 490,
+    "question": "Hazrat Muhammad ﷺ ke daur mein pehli jang (Battle of Badr) kis saal hui thi?",
+    "options": ["A) 2 Hijri", "B) 1 Hijri", "C) 3 Hijri", "D) 4 Hijri"],
+    "answer": "A"
+  },
+  {
+    "id": 491,
+    "question": "Quran Majeed ki konsi surat mein 'Surah Al-Inshirah' dil ke kholne ka zikr karti hai?",
+    "options": ["A) Surah Al-Inshirah", "B) Surah Ad-Duha", "C) Surah At-Tin", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 492,
+    "question": "Hazrat Yunus AS ki machli wale qissay ka zikr Quran ki kis surat mein milta hai?",
+    "options": ["A) Surah Al-Anbiya aur Surah As-Saffat", "B) Surah Yaseen", "C) Surah Kahf", "D) Surah Baqarah"],
+    "answer": "A"
+  },
+  {
+    "id": 493,
+    "question": "Islam mein 'Sadaqah-e-Jariyan' ka sab se bara faida kya hai?",
+    "options": ["A) Wafat ke baad bhi musalsal sawab milta rehta hai", "B) Maal double ho jata hai", "C) Dushman door rehte ہیں", "D) Sirf duniya mein faida hota hai"],
+    "answer": "A"
+  },
+  {
+    "id": 494,
+    "question": "Quran mein kis Nabi ko 'Wa Inna Ibrahim' ke tor par but-shikan ke taur par yad kiya gaya?",
+    "options": ["A) Hazrat Ibrahim AS", "B) Musa AS", "C) Nuh AS", "D) Lut AS"],
+    "answer": "A"
+  },
+  {
+    "id": 495,
+    "question": "Hazrat Uthman RA ki shahadat ke baad unka dafan kahan hua tha?",
+    "options": ["A) Jannat-ul-Baqi (Madinah) mein", "B) Makkah mein", "C) Masjid-e-Nabwi mein", "D) Uhod ke qareeb"],
+    "answer": "A"
+  },
+  {
+    "id": 496,
+    "question": "Quran ki kis surat mein 'Surah At-Tin' anjeer aur zaitoon ki qasam khayi gayi hai?",
+    "options": ["A) Surah At-Tin", "B) Surah Al-Inshirah", "C) Surah Ad-Duha", "D) Surah Al-Qadr"],
+    "answer": "A"
+  },
+  {
+    "id": 497,
+    "question": "Hazrat Musa AS ke waqt mein firaun ke darbaar mein jadoo-garon ki haar ke baad kya hua?",
+    "options": ["A) Wo sab foran iman le aaye aur Allah ko sajda kiya", "B) Bhag gaye", "C) Inkar kar diya", "D) Ladne lage"],
+    "answer": "A"
+  },
+  {
+    "id": 498,
+    "question": "Islam mein 'Ruku' ke baad seedhe khade hone ki halat ko kya kehte hain?",
+    "options": ["A) Qawmah", "B) Jalsa", "C) Qayam", "D) Qaid"],
+    "answer": "A"
+  },
+  {
+    "id": 499,
+    "question": "Quran mein kis Sahabi ko Rasool Allah ﷺ ne 'Asadullah' ka laqab diya tha?",
+    "options": ["A) Hazrat Ali RA", "B) Hazrat Abu Bakr RA", "C) Hazrat Umar RA", "D) Hazrat Usman RA"],
+    "answer": "A"
+  },
+  {
+    "id": 500,
+    "question": "Quran Majeed ki aakhri surat (Surah An-Nas) mein kis ki panah mangne ka hukam diya gaya hai?",
+    "options": ["A) Allah Ta'ala (Jo logon ka Rabb, Badshah aur Ilah hai) ki", "B) Farishton ki", "C) Nabiyon ki", "D) Qudrat ki"],
+    "answer": "A"
+  }
+    ]
