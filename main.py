@@ -8,10 +8,10 @@ import pytchat
 import pyttsx3
 
 STREAM_KEY = os.environ.get("STREAM_KEY", "")
-VIDEO_WIDTH = 1280
-VIDEO_HEIGHT = 720
+VIDEO_WIDTH = 720
+VIDEO_HEIGHT = 1280
 FPS = 10  # Optimized for GitHub cloud server stability
-DURATION_LIMIT = 21600  # Strict 6 Hours
+DURATION_LIMIT = 21600  # Strict 6 Hours (360 minutes)[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)
 
 def speak_text(text):
     try:
@@ -41,46 +41,67 @@ def save_json(filename, data):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
+def draw_rounded_rect(draw, xy, radius, fill, outline=None, width=1):
+    x1, y1, x2, y2 = xy
+    draw.rectangle([x1 + radius, y1, x2 - radius, y2], fill=fill)
+    draw.rectangle([x1, y1 + radius, x2, y2 - radius], fill=fill)
+    draw.pieslice([x1, y1, x1 + radius * 2, y1 + radius * 2], 180, 270, fill=fill)
+    draw.pieslice([x2 - radius * 2, y1, x2, y1 + radius * 2], 270, 360, fill=fill)
+    draw.pieslice([x1, y2 - radius * 2, x1 + radius * 2, y2], 90, 180, fill=fill)
+    draw.pieslice([x2 - radius * 2, y2 - radius * 2, x2, y2], 0, 90, fill=fill)
+
 def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
+    # Dark Olive Green Aesthetic Theme Background (#132A13)[span_4](start_span)[span_4](end_span)
     img = Image.new("RGB", (VIDEO_WIDTH, VIDEO_HEIGHT), color="#132A13")
     draw = ImageDraw.Draw(img)
 
-    # Top Header
-    draw.rectangle([30, 30, 1250, 100], fill="#386641")
-    draw.text((50, 45), "AHAD Z9 LIVE (@AhadZ9) - Islamic Trivia Live", fill="#F2E8CF", font=font_large)
+    # Top Header: AHAD Z9 LIVE (@AhadZ9)[span_5](start_span)[span_5](end_span)
+    draw.rectangle([30, 30, 690, 130], fill="#386641")
+    draw.text((50, 45), "AHAD Z9 LIVE", fill="#F2E8CF", font=font_large)
+    draw.text((50, 85), "@AhadZ9 - Islamic Trivia Live", fill="#dda15e", font=font_small)
     
-    # Leaderboard (Top 5)
+    # Live Leaderboard Box (Top 5)[span_6](start_span)[span_6](end_span)
+    draw.rectangle([30, 150, 690, 330], fill="#283618", outline="#606C38", width=2)
+    draw.text((50, 160), "LIVE LEADERBOARD (TOP 5)", fill="#dda15e", font=font_large)
+    draw.text((50, 190), "Rank   User                        Points", fill="#a3b18a", font=font_small)
+    
     sorted_lb = sorted(leaderboard.items(), key=lambda x: x[1], reverse=True)[:5]
-    draw.rectangle([880, 110, 1250, 320], fill="#283618", outline="#606C38", width=2)
-    draw.text((900, 120), "Live Leaderboard (Top 5)", fill="#dda15e", font=font_large)
-    
-    y_offset = 155
+    y_offset = 215
     for rank, (user, pts) in enumerate(sorted_lb, 1):
-        draw.text((900, y_offset), f"{rank}. {user}: {pts} pts", fill="#fefae0", font=font_small)
-        y_offset += 30
+        draw.text((50, y_offset), f"{rank}.      @{user[:15]:<15}     {pts} pts", fill="#fefae0", font=font_small)
+        y_offset += 22
 
-    # Question Box
-    draw.rectangle([50, 130, 850, 350], fill="#283618", outline="#606C38", width=3)
-    draw.text((70, 150), f"ISLAMIC TRIVIA Q#{q_data.get('id', 1)}:", fill="#dda15e", font=font_large)
+    # Center Quiz Card (Question Box)[span_7](start_span)[span_7](end_span)
+    draw.rectangle([30, 350, 690, 680], fill="#283618", outline="#606C38", width=3)
+    draw.text((50, 370), f"ISLAMIC TRIVIA Q#{q_data.get('id', 1)}:", fill="#dda15e", font=font_large)
     
     q_text = str(q_data.get('question', ''))
-    draw.text((70, 200), q_text, fill="#fefae0", font=font_large)
+    draw.text((50, 420), q_text, fill="#fefae0", font=font_large)
 
-    # Options A, B, C, D
-    opt_y = 260
-    for opt in q_data.get('options', []):
-        draw.text((70, opt_y), str(opt), fill="#a3b18a", font=font_small)
-        opt_y += 25
+    # Countdown Timer Bar[span_8](start_span)[span_8](end_span)
+    bar_width = int(610 * (timer_val / 30.0))
+    draw.rectangle([50, 520, 660, 545], fill="#386641")
+    if bar_width > 0:
+        draw.rectangle([50, 520, 50 + bar_width, 545], fill="#bc6c25")
+    draw.text((310, 525), f"TIME: {timer_val} SEC", fill="#fefae0", font=font_small)
 
-    # Timer Bar
-    bar_width = int(780 * (timer_val / 30.0))
-    draw.rectangle([50, 370, 830, 390], fill="#386641")
-    draw.rectangle([50, 370, 50 + max(0, bar_width), 390], fill="#bc6c25")
+    # Options A, B, C, D (Rounded Buttons Grid)[span_9](start_span)[span_9](end_span)
+    options = q_data.get('options', ['', '', '', ''])
+    opt_coords = [
+        (50, 565, 345, 625),  # A
+        (375, 565, 670, 625), # B
+        (50, 640, 345, 700),  # C
+        (375, 640, 670, 700)  # D
+    ]
+    for i, box in enumerate(opt_coords):
+        if i < len(options):
+            draw_rounded_rect(draw, box, radius=10, fill="#386641", outline="#dda15e", width=2)
+            draw.text((box[0] + 15, box[1] + 18), str(options[i]), fill="#fefae0", font=font_small)
 
-    # Bottom Stream Area
-    draw.rectangle([30, 580, 1250, 680], fill="#283618", outline="#606C38", width=2)
-    draw.text((50, 595), "+10 Points for Correct Jawab! Type A, B, C, or D in chat!", fill="#dda15e", font=font_large)
-    draw.text((50, 635), f"LAST CORRECT JAWAB: {ticker_msg}", fill="#fefae0", font=font_large)
+    # Bottom Stream Area: Engagement Prompt & Winner Ticker[span_10](start_span)[span_10](end_span)
+    draw.rectangle([30, 710, 690, 830], fill="#283618", outline="#606C38", width=2)
+    draw.text((50, 730), "+10 Points for Correct Jawab! Type A, B, C, or D in chat!", fill="#dda15e", font=font_small)
+    draw.text((50, 780), f"LAST CORRECT JAWAB: {ticker_msg}", fill="#fefae0", font=font_small)
 
     return img
 
@@ -94,7 +115,7 @@ def main():
         print("Error: questions.json is empty!")
         return
 
-    # Optimized FFmpeg command for lightweight cloud execution
+    # FFmpeg command configured for Vertical 9:16 Stream
     ffmpeg_cmd = [
         'ffmpeg', '-y', 
         '-f', 'rawvideo', '-vcodec', 'rawvideo',
