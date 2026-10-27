@@ -7,12 +7,11 @@ from PIL import Image, ImageDraw, ImageFont
 import pytchat
 import pyttsx3
 
-# GitHub Secret se STREAM_KEY read karega
 STREAM_KEY = os.environ.get("STREAM_KEY", "")
 VIDEO_WIDTH = 1280
 VIDEO_HEIGHT = 720
 FPS = 30
-DURATION_LIMIT = 21600  # Strict 6 Hours (360 minutes)
+DURATION_LIMIT = 21600  # Strict 6 Hours
 
 def speak_text(text):
     try:
@@ -43,15 +42,14 @@ def save_json(filename, data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
-    # Olive Green Aesthetic Theme Background (#132A13)
     img = Image.new("RGB", (VIDEO_WIDTH, VIDEO_HEIGHT), color="#132A13")
     draw = ImageDraw.Draw(img)
 
-    # Top Header: AHAD Z9 LIVE (@AhadZ9)
+    # Top Header
     draw.rectangle([30, 30, 1250, 100], fill="#386641")
     draw.text((50, 45), "AHAD Z9 LIVE (@AhadZ9) - Islamic Trivia Live", fill="#F2E8CF", font=font_large)
     
-    # Live Leaderboard (Top 5)
+    # Leaderboard (Top 5)
     sorted_lb = sorted(leaderboard.items(), key=lambda x: x[1], reverse=True)[:5]
     draw.rectangle([880, 110, 1250, 320], fill="#283618", outline="#606C38", width=2)
     draw.text((900, 120), "Live Leaderboard (Top 5)", fill="#dda15e", font=font_large)
@@ -61,7 +59,7 @@ def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
         draw.text((900, y_offset), f"{rank}. {user}: {pts} pts", fill="#fefae0", font=font_small)
         y_offset += 30
 
-    # Center Quiz Card (Question Box)
+    # Question Box
     draw.rectangle([50, 130, 850, 350], fill="#283618", outline="#606C38", width=3)
     draw.text((70, 150), f"ISLAMIC TRIVIA Q#{q_data.get('id', 1)}:", fill="#dda15e", font=font_large)
     
@@ -74,12 +72,12 @@ def draw_ui(q_data, leaderboard, ticker_msg, timer_val):
         draw.text((70, opt_y), str(opt), fill="#a3b18a", font=font_small)
         opt_y += 25
 
-    # Countdown Timer Bar
+    # Timer Bar
     bar_width = int(780 * (timer_val / 30.0))
     draw.rectangle([50, 370, 830, 390], fill="#386641")
     draw.rectangle([50, 370, 50 + max(0, bar_width), 390], fill="#bc6c25")
 
-    # Bottom Stream Area (Engagement Prompt & Winner Ticker)
+    # Bottom Stream Area
     draw.rectangle([30, 580, 1250, 680], fill="#283618", outline="#606C38", width=2)
     draw.text((50, 595), "+10 Points for Correct Jawab! Type A, B, C, or D in chat!", fill="#dda15e", font=font_large)
     draw.text((50, 635), f"LAST CORRECT JAWAB: {ticker_msg}", fill="#fefae0", font=font_large)
@@ -96,11 +94,17 @@ def main():
         print("Error: questions.json is empty!")
         return
 
+    # FFmpeg command with Silent Audio Track (anullsrc) for YouTube RTMP
     ffmpeg_cmd = [
-        'ffmpeg', '-y', '-f', 'rawvideo', '-vcodec', 'rawvideo',
+        'ffmpeg', '-y', 
+        '-f', 'rawvideo', '-vcodec', 'rawvideo',
         '-pix_fmt', 'rgb24', '-s', f'{VIDEO_WIDTH}x{VIDEO_HEIGHT}',
-        '-r', str(FPS), '-i', '-', '-c:v', 'libx264', '-preset', 'ultrafast',
-        '-pix_fmt', 'yuv420p', '-b:v', '1500k', '-flvflags', 'no_duration_filesize',
+        '-r', str(FPS), '-i', '-',
+        '-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo',
+        '-c:v', 'libx264', '-preset', 'ultrafast',
+        '-pix_fmt', 'yuv420p', '-b:v', '1500k',
+        '-c:a', 'aac', '-b:a', '128k',
+        '-flvflags', 'no_duration_filesize',
         '-f', 'flv', f'rtmp://a.rtmp.youtube.com/live2/{STREAM_KEY}'
     ]
     
@@ -109,7 +113,7 @@ def main():
     
     chat = None
     try:
-        # Apni YouTube Live Video ID yahan daal dein ya active stream link karein
+        # Apni YouTube live stream ki real video ID yahan daal dein
         chat = pytchat.create(video_id="YOUR_LIVE_VIDEO_ID") 
     except Exception as e:
         print("Chat monitor init warning:", e)
@@ -125,7 +129,6 @@ def main():
         current_q = questions[q_index % len(questions)]
         leaderboard = load_json("leaderboard.json", {})
 
-        # AI Voice TTS reading question
         threading.Thread(target=speak_text, args=(f"Question {current_q.get('id')}: {current_q.get('question')}",)).start()
 
         for timer in range(30, 0, -1):
