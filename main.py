@@ -10,7 +10,7 @@ import pyttsx3
 STREAM_KEY = os.environ.get("STREAM_KEY", "")
 VIDEO_WIDTH = 1280
 VIDEO_HEIGHT = 720
-FPS = 30
+FPS = 10  # Optimized for GitHub cloud server stability
 DURATION_LIMIT = 21600  # Strict 6 Hours
 
 def speak_text(text):
@@ -94,7 +94,7 @@ def main():
         print("Error: questions.json is empty!")
         return
 
-    # FFmpeg command optimized for stable RTMP stream
+    # Optimized FFmpeg command for lightweight cloud execution
     ffmpeg_cmd = [
         'ffmpeg', '-y', 
         '-f', 'rawvideo', '-vcodec', 'rawvideo',
@@ -102,8 +102,8 @@ def main():
         '-r', str(FPS), '-i', '-',
         '-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo',
         '-c:v', 'libx264', '-preset', 'ultrafast',
-        '-pix_fmt', 'yuv420p', '-b:v', '1500k',
-        '-c:a', 'aac', '-b:a', '128k',
+        '-pix_fmt', 'yuv420p', '-b:v', '800k',
+        '-c:a', 'aac', '-b:a', '64k',
         '-flvflags', 'no_duration_filesize',
         '-f', 'flv', f'rtmp://a.rtmp.youtube.com/live2/{STREAM_KEY}'
     ]
@@ -146,7 +146,6 @@ def main():
                 except Exception as e:
                     pass
 
-            # Send 30 frames per second so FFmpeg bitrate remains stable at 1500k
             for _ in range(FPS):
                 frame_img = draw_ui(current_q, leaderboard, ticker_msg, timer)
                 try:
